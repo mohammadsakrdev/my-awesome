@@ -6,7 +6,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Algorithms](#algorithms)
 - [Database](#database)
 - [Design Patterns](#design-patterns)
-- [Object Oriented Design](object-oriented-design)
+- [Object Oriented Design](#object-oriented-design)
 - [Git](#git)
 - [Awesome](#awesome)
 - [Remote First](#remote-first)
