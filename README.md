@@ -1,4 +1,4 @@
-# my-awesome
+# my-awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list of awesome links, frameworks, libraries and software.
 
 - [System Design](#system-design)
