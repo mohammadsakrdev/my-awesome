@@ -17,17 +17,21 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Data Structures
 
+
 ### Algorithms
 
 - [Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 ### Database
 
-- [guru-design-patterns](https://refactoring.guru/design-patterns) - Guru makes it easy for you to discover everything you need to know about design patterns.
 
 ### Design Patterns
 
+- [guru-design-patterns](https://refactoring.guru/design-patterns) - Guru makes it easy for you to discover everything you need to know about design patterns.
+
 ### Object Oriented Design
+
+- [How I Cracked the Object Oriented Design Interview at Amazon](https://www.davidseek.com/ood/)
 
 ### Git
 
