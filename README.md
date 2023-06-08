@@ -14,9 +14,13 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Message Queues](#message-queues)
 - [Problem-Solving](#problem-solving)
 - [Common](#common)
+- [Spring](#spring)
+- [Java](#java)
 - [Behavioural](#behavioural)
 - [Awesome](#awesome)
 - [Remote First](#remote-first)
+- [To watch](#to-watch)
+- [Go](#go)
 
 ### System Design
 
@@ -24,6 +28,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [How Uber Scales Their Real-Time Market Platform](http://highscalability.com/blog/2015/9/14/how-uber-scales-their-real-time-market-platform.html)
+- [16 System Design Concepts I Wish I Knew Before the Interview](https://levelup.gitconnected.com/16-system-design-concepts-i-wish-i-knew-before-the-interview-b8586e40a73b)
+- [I Wish I Knew These 12 Algorithms and Their Applications Before the System Design Interview](https://levelup.gitconnected.com/i-wish-i-knew-these-12-algorithms-and-their-applications-before-the-system-design-interview-5fb7fa8b1177)
 - [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-EG/blog/money-scale-strong-data/)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [Dynein: Building an Open-source Distributed Delayed Job Queueing System](https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99)
@@ -48,11 +54,22 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Polling, server sent events, and WebSockets: system design interview concepts (8 of 9)](https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview?_pos=14&_sid=ec68c0f85&_ss=r)
   [Queues and pub-sub: system design interview concepts (9 of 9)](https://igotanoffer.com/blogs/tech/queues-pubsub-system-design-interview?_pos=12&_sid=ec68c0f85&_ss=r)
 - [System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
+- [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
+- [A Comprehensive Guide to Distributed Caching](https://blog.devgenius.io/a-comprehensive-guide-to-distributed-caching-827f1fa5a184)
+- [System Design Interview Survival Guide (2023): Preparation Strategies and Practical Tips](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
+- [How to ensure idempotence](https://levelup.gitconnected.com/how-to-ensure-idempotence-f436a42bf67d)
+- [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
+- [System Design Concepts You NEED to Know](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag)
+- [Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
 
 ### Microservices
 
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
 - [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+- [24 microservices interview questions and answers to land that job](https://www.educative.io/blog/microservices-interview-questions-and-answers)
+- [50 Microservices Design and Architecture Interview Questions for Experienced Java Programmers](https://medium.com/javarevisited/50-microservices-interview-questions-for-java-programmers-70a4a68c4349)
+- [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
+- [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 
 ### Software Architecture
 
@@ -61,6 +78,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
 - [CQRS: What? Why? How?](https://sderosiaux.medium.com/cqrs-what-why-how-945543482313)
+- [Software Architecture Concepts](https://blog.cmpsamurai.com/series/software-architecture)
+- [learning-ddd videos](https://virtualddd.com/learning-ddd/videos/)
+- [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
 
 ### Data Structures and Algorithms
 
@@ -83,10 +103,19 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Understanding Database Isolation Levels](https://medium.com/nerd-for-tech/understanding-database-isolation-levels-c4ebcd55c6b9)
 - [What Is a Race Condition?](https://www.baeldung.com/cs/race-conditions)
 - [10 Database Security Best Practices You Should Know](https://www.tripwire.com/state-of-security/database-security-best-practices-you-should-know)
+- [Unlocking the Power of SQL: How to Ace Top N Problem Questions in Interviews](https://medium.com/geekculture/unlocking-the-power-of-sql-how-to-ace-top-n-problem-questions-in-interviews-cf525901228a)
+- [How To Ace the SQL Ratio Problems In Data Science Interviews](https://medium.com/geekculture/how-to-ace-the-sql-ratio-problems-in-data-science-interviews-c95395acf038)
+- [How does database sharding work?](https://planetscale.com/blog/how-does-database-sharding-work?utm_id=newsletter)
+- [Distributed Data: Replication, Partitioning and Sharding](https://medium.com/@nishantparmar/distribute-data-replication-partitioning-and-sharding-920a71481c1c)
+- [Difference between Database Sharding and Partitioning](https://www.linkedin.com/pulse/difference-between-database-sharding-partitioning-arpit-bhayani/)
+- [System design fundamentals: What is the CAP theorem?](https://www.educative.io/blog/what-is-cap-theorem)
+- [What are ACID properties in a database?](https://www.educative.io/answers/what-are-acid-properties-in-a-database)
+- [](https://thenewstack.io/multi-version-concurrency-control-mvcc-design-decisions/)
 
 ### Design Patterns
 
 - [guru-design-patterns](https://refactoring.guru/design-patterns) - Guru makes it easy for you to discover everything you need to know about design patterns.
+- [SourceMaking-design-patterns](https://sourcemaking.com/) - I'm SourceMaking. I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns.
 
 ### Object Oriented Design
 
@@ -108,6 +137,8 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 - [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html)
+- [OWASP Kubernetes Top 10](https://dzone.com/articles/owasp-kubernetes-top-10?edition=799397&utm_campaign=&utm_content=OWASP%20Kubernetes%20Top%2010&utm_medium=email&utm_source=dzone&utm_term=)
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist?fbclid=IwAR3jfNqAlHZwOL74y9Z0ejk7YPnQmKifW3oVBhVcZ4h6jphH242m0LVD4pQ)
 
 ### Message Queues
 
@@ -116,6 +147,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Top Frequently asked Rabbitmq Interview Questions](https://www.techgeeknext.com/java/rabbitmq-interview-questions)
 - [Understanding message queuing systems using RabbitMQ](https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
+- [What are Message Queues and why they are widely used in distributed systems](https://levelup.gitconnected.com/what-are-message-queues-and-why-they-are-widely-used-in-distributed-systems-cf9735e9afd7)
 
 ### Problem-Solving
 
@@ -132,6 +164,45 @@ A curated list of awesome links, frameworks, libraries and software.
 - [What happens when you type google.com into your browser and press enter?](https://www.youtube.com/watch?v=dh406O2v_1c)
 - [What happens when you type 'google.com' into a browser and press Enter?](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)
 - [Elasticsearch: What It Is, How It Works, And What It’s Used For](https://www.knowi.com/blog/what-is-elastic-search/)
+- [REST API Naming Conventions and Best Practices](https://medium.com/@nadinCodeHat/rest-api-naming-conventions-and-best-practices-1c4e781eb6a5)
+- [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
+- [How to troubleshoot slowdowns in high data traffic APIs](https://medium.com/@romulo_pauliv/how-to-troubleshoot-slowdowns-in-high-data-traffic-apis-359245d6fdd5)
+- [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/?utm_source=programmingdigest&utm_medium&utm_campaign=1629&fbclid=IwAR1Imzensg3WfXo2eQPFqJwaIPxMCZHBr6ueDDHr_jMILHVs6HvEe-UI25w&mibextid=S66gvF)
+- [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
+- [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+- [Best Practices for designing REST APIs](https://medium.com/@bubu.tripathy/best-practices-for-designing-rest-apis-5b1809545e3c)
+- [Zalando: How to pass the interview](https://clevercoder.net/2018/04/14/zalando-how-to-pass-the-interview/)
+- [Zalando – Interview Questions](https://codedaily.in/zalando-interview-questions/)
+- [Interview preparation tips for Java developers](https://engineering.zalando.com/posts/2016/06/interview-preparation-tips-for-java-developers.html)
+- [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+- [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [Career Growth: What Paths After Senior Engineer](https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/)
+
+
+### Spring
+- [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
+- [How to handle incoming requests in Java with Spring Boot](https://medium.com/@burakkocakeu/how-to-handle-incoming-requests-in-java-with-spring-boot-b46cb35ed520)
+- [How Experienced Developers Use Enums in APIs](https://levelup.gitconnected.com/how-experienced-developers-use-enums-in-apis-7798504e1857)
+- [15+ things you need to know when you want to use Spring @Transactional really well](https://levelup.gitconnected.com/15-things-you-need-to-know-when-you-want-to-use-spring-transactional-really-well-fc6f5ec207ac)
+- [How To Authenticate Your Spring Boot Application With Keycloak](https://betterprogramming.pub/how-to-authenticate-your-spring-boot-application-with-keycloak-1e9ccb5f2478)
+- [Mastering Testcontainers for Better Integration Tests](https://www.youtube.com/watch?v=zfN8m9Dh9cs)
+- [How to pass configurations to Spring app running on Docker container](https://faun.pub/how-to-pass-configurations-to-spring-app-running-on-docker-container-f6e1f0ad66c4)
+- [The best way to use the Spring Data JPA Specification](https://vladmihalcea.com/spring-data-jpa-specification/)
+- [8+ things you need to know when you want to use Spring @Async really well](https://levelup.gitconnected.com/8-things-you-need-to-know-when-you-want-to-use-spring-async-really-well-e5af4af259c5)
+- [Preventing Data Loss With Kafka Listeners in Spring Boot](https://dzone.com/articles/preventing-data-loss-with-kafka-listeners-in-sprin?edition=811399&utm_campaign=&utm_content=How%20to%20scan%20and%20validate%20image%20uploads%20in%20Java&utm_medium=email&utm_source=dzone&utm_term=)
+- [PII Data Masking Using Spring Boot | JavaTechie](https://www.youtube.com/watch?v=7TaUhLQQPDs)
+- [Mask, Hide & Replace Sensitive Data In Spring Boot Logs | Console Appender | Rolling File Appender](https://www.youtube.com/watch?v=3YK6UZq_51E)
+- [How to configure Kubernetes memory limits for Java application](https://medium.com/@mark.andreev/how-to-configure-kubernetes-memory-limits-for-java-application-ec0cc5a68c24)
+- [Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot-best-practices-and-pro-tips-3fc0f501418e)
+- [SpringBoot — API Versioning — Fast&Easy](https://medium.com/@DevChris01/springboot-api-versioning-fast-easy-c3ef2c87452f)
+- [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
+
+### Java
+
+- [Java ExecutorService](https://www.youtube.com/playlist?list=PLL8woMHwr36H_hU2ukHSsOctKU2etmUdP)
+- [Java Practices](http://www.javapractices.com/home/HomeAction.do)
+- [10 Java Idioms Every Developer Should Know](https://levelup.gitconnected.com/10-idioms-to-write-better-code-in-java-a6c592948ee7)
+- [Java interview questions and answers for 2023](https://www.turing.com/interview-questions/java)
 
 ### Behavioural
 
@@ -143,6 +214,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Job Interview Questions, Answers, and Tips To Prepare](https://www.thebalancemoney.com/job-interview-questions-and-answers-2061204)
 - [10 Behavioral Interview Questions for Software Engineers](https://www.indeed.com/career-advice/interviewing/software-engineer-behavioral-interview-questions)
 - [7 Time Management Interview Questions](https://www.indeed.com/career-advice/interviewing/time-management-interview-questions)
+- [New Job? Negotiate as if your life depends on it](https://www.medhat.dev/blog/negotiate-salary)
+- [The Secret Art of Salary Negotiation](https://www.nicksingh.com/posts/the-secret-art-of-salary-negotiation#section1)
+- [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 
 ### Awesome
 
@@ -152,6 +226,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university) - The items listed here will prepare you well for a technical interview at just about any software company.
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
 - [15 Best Data Structure, Algorithms, and Programming Courses to Crack Coding Interviews](https://medium.com/javarevisited/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+- [Circleci Engineering](https://circleci.com/blog/tag/engineering/)
+- [10 GitHub Repos every developer will need!](https://dev.to/ahmedadel/10-github-repos-every-developer-will-need-cji)
 
 
 ### Remote First
@@ -160,3 +236,18 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Camunda](https://camunda.com/)
 - [Turing](https://www.turing.com/)
 - [Mentormate](https://mentormate.com/)
+
+### To watch
+
+- [Working Effectively with Legacy Code • Michael Feathers & Christian Clausen](https://www.youtube.com/watch?app=desktop&list=PLEx5khR4g7PJbSLmADahf0LOpTLifiCra&v=P_6eDL1aqtA&feature=youtu.be)
+- [The Phoenix Project: A Must-Read for Anyone in IT](https://www.youtube.com/watch?app=desktop&v=6QNdL1I7OTM)
+- [The Unicorn Project: A Must-Read for Every DevOps Enthusiast](https://www.youtube.com/watch?app=desktop&v=I0vf9CtWGDc)
+- [Coaching Senior Developers by Will Ray -- ng-sydney October 2018](https://www.youtube.com/watch?v=xifesQQF5aU)
+- [How principled coders outperform the competition](https://www.youtube.com/watch?app=desktop&v=q1qKv5TBaOA&ab_channel=Coderized)
+- [How to Do Code Reviews Like a Human](https://www.youtube.com/watch?v=0t4_MfHgb_A)
+
+### Go
+
+- [podinfo](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
+- [Introducing basic CQRS by refactoring a Go project](https://threedots.tech/post/basic-cqrs-in-go/)
+- [Finding The Best Go Project Structure — Part 1](https://itnext.io/finding-the-best-go-project-structure-part-1-5290bc1d869d)
