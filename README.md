@@ -16,10 +16,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Common](#common)
 - [Spring](#spring)
 - [Java](#java)
+- [Kubernetes](#kubernetes)
 - [Behavioural](#behavioural)
 - [Awesome](#awesome)
 - [Remote First](#remote-first)
 - [To watch](#to-watch)
+- [Resume](#resume)
 - [Go](#go)
 
 ### System Design
@@ -61,6 +63,10 @@ A curated list of awesome links, frameworks, libraries and software.
 - [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
 - [System Design Concepts You NEED to Know](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag)
 - [Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
+- [Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
+- [System Design Course](https://github.com/karanpratapsingh/system-design)
+- [Behind the scenes: McDonald’s event-driven architecture](https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86)
+- [McDonald’s event-driven architecture: The data journey and how it works](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f)
 
 ### Microservices
 
@@ -70,6 +76,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [50 Microservices Design and Architecture Interview Questions for Experienced Java Programmers](https://medium.com/javarevisited/50-microservices-interview-questions-for-java-programmers-70a4a68c4349)
 - [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
+- [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 
 ### Software Architecture
 
@@ -110,7 +117,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Difference between Database Sharding and Partitioning](https://www.linkedin.com/pulse/difference-between-database-sharding-partitioning-arpit-bhayani/)
 - [System design fundamentals: What is the CAP theorem?](https://www.educative.io/blog/what-is-cap-theorem)
 - [What are ACID properties in a database?](https://www.educative.io/answers/what-are-acid-properties-in-a-database)
-- [](https://thenewstack.io/multi-version-concurrency-control-mvcc-design-decisions/)
+- [Database Design Decisions for Multi-Version Concurrency Control](https://thenewstack.io/multi-version-concurrency-control-mvcc-design-decisions/)
+- [The growing pains of database architecture](https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/)
+- [8 Week SQL Challenge](https://8weeksqlchallenge.com/)
+- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [I struggle to read and write 100K requests in Postgres DB, and my aggressive solution with Redis](https://medium.datadriveninvestor.com/i-struggle-to-read-and-write-100k-requests-in-postgres-db-with-my-aggressive-solution-with-redis-91461a8316a1)
+- [SQL Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHqFoyAJ8f-cYynn0MhYr7vO)
 
 ### Design Patterns
 
@@ -177,7 +189,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Career Growth: What Paths After Senior Engineer](https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/)
-
+- [Let’s Clean that Code](https://blog.knoldus.com/keep-your-code-clean/)
+- [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
 
 ### Spring
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
@@ -196,6 +209,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot-best-practices-and-pro-tips-3fc0f501418e)
 - [SpringBoot — API Versioning — Fast&Easy](https://medium.com/@DevChris01/springboot-api-versioning-fast-easy-c3ef2c87452f)
 - [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
+- [Optimistic locking with JPA and Hibernate](https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/)
 
 ### Java
 
@@ -203,6 +217,13 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
 - [10 Java Idioms Every Developer Should Know](https://levelup.gitconnected.com/10-idioms-to-write-better-code-in-java-a6c592948ee7)
 - [Java interview questions and answers for 2023](https://www.turing.com/interview-questions/java)
+- [Exploring Collectors by Venkat Subramaniam](https://www.youtube.com/watch?v=pGroX3gmeP8)
+- [Exception Handling in Functional and Reactive Programming by Venkat Subramaniam](https://www.youtube.com/watch?v=S5tLVsvbHBg)
+
+### Kubernetes
+
+- [A guide to Kubernetes architecture](https://opensource.com/article/22/2/kubernetes-architecture)
+- [Kubernetes production best-practices](https://github.com/learnk8s/kubernetes-production-best-practices)
 
 ### Behavioural
 
@@ -217,6 +238,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [New Job? Negotiate as if your life depends on it](https://www.medhat.dev/blog/negotiate-salary)
 - [The Secret Art of Salary Negotiation](https://www.nicksingh.com/posts/the-secret-art-of-salary-negotiation#section1)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+- [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 ### Awesome
 
@@ -228,6 +250,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [15 Best Data Structure, Algorithms, and Programming Courses to Crack Coding Interviews](https://medium.com/javarevisited/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 - [Circleci Engineering](https://circleci.com/blog/tag/engineering/)
 - [10 GitHub Repos every developer will need!](https://dev.to/ahmedadel/10-github-repos-every-developer-will-need-cji)
+- [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes?fbclid=IwAR39TJejBvxXglZU9Y_UYcLqyknA4zHtnoNoYVivJpyIxWPaBUl_Mwixnhg) - This Book is about good programming. It's about how to write good code, and how to transform bad code into good code.
+- [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)
+- [Gitlab Engineering](https://about.gitlab.com/handbook/engineering/)
 
 
 ### Remote First
@@ -245,6 +270,14 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Coaching Senior Developers by Will Ray -- ng-sydney October 2018](https://www.youtube.com/watch?v=xifesQQF5aU)
 - [How principled coders outperform the competition](https://www.youtube.com/watch?app=desktop&v=q1qKv5TBaOA&ab_channel=Coderized)
 - [How to Do Code Reviews Like a Human](https://www.youtube.com/watch?v=0t4_MfHgb_A)
+- [The Only Unbreakable Law](https://www.youtube.com/watch?v=5IUj1EZwpJY) - There are promising candidates for "laws" governing computer software. But are there any specifically for software architecture? In this lecture, I describe the only viable candidate I've so far seen
+- [Software Engineering Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHptUb0gduz9pxLgvtKWznKj)
+- [System Design Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+
+### Resume
+
+- [Want to work @FAANG companies? Start with a Great Resume](https://typefully.com/ywkem/vm1T86a)
+- [10 common mistakes in writing resume](https://www.aabouzaid.com/2023/05/10-common-resume-cv-mistakes.html?m=1)
 
 ### Go
 
