@@ -173,6 +173,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 - [73 data structure interview questions (with solutions and cheat sheet)](https://igotanoffer.com/blogs/tech/data-structure-interview-questions?_pos=63&_sid=ec68c0f85&_ss=r)
+- [Cracking the Coding Interview Dinesh Varyani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3v9gBrV7xwiMod-EA3nMjWl)
 
 ### Common
 
@@ -228,6 +229,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java interview questions and answers for 2023](https://www.turing.com/interview-questions/java)
 - [Exploring Collectors by Venkat Subramaniam](https://www.youtube.com/watch?v=pGroX3gmeP8)
 - [Exception Handling in Functional and Reactive Programming by Venkat Subramaniam](https://www.youtube.com/watch?v=S5tLVsvbHBg)
+- [Functional Programming in Modern Java Douglas Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V)
 
 ### Kubernetes
 
@@ -289,6 +291,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Only Unbreakable Law](https://www.youtube.com/watch?v=5IUj1EZwpJY) - There are promising candidates for "laws" governing computer software. But are there any specifically for software architecture? In this lecture, I describe the only viable candidate I've so far seen
 - [Software Engineering Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHptUb0gduz9pxLgvtKWznKj)
 - [System Design Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+- [Writing cleaner code with Domain Driven Design by Paul van der Slot](https://www.youtube.com/watch?v=3t0tZTOGk08)
 
 ### Resume
 
