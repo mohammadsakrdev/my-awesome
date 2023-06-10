@@ -67,6 +67,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [System Design Course](https://github.com/karanpratapsingh/system-design)
 - [Behind the scenes: McDonald’s event-driven architecture](https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86)
 - [McDonald’s event-driven architecture: The data journey and how it works](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f)
+- [Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale?fbclid=IwAR0OaV-cuIdsHE2_Sn_4nJ60ootRtU31yP5RQLz2_phlAlEN445-b38hvSw)
+- [How we store and process millions of orders daily](https://engineering.grab.com/how-we-store-millions-orders)
+- [From Zero to 50 Million Uploads per Day: Scaling Media at Canva](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
 
 ### Microservices
 
@@ -77,6 +80,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 - [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
+- [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 
 ### Software Architecture
 
@@ -88,6 +92,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Software Architecture Concepts](https://blog.cmpsamurai.com/series/software-architecture)
 - [learning-ddd videos](https://virtualddd.com/learning-ddd/videos/)
 - [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
+- [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems)
 
 ### Data Structures and Algorithms
 
@@ -123,6 +128,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [I struggle to read and write 100K requests in Postgres DB, and my aggressive solution with Redis](https://medium.datadriveninvestor.com/i-struggle-to-read-and-write-100k-requests-in-postgres-db-with-my-aggressive-solution-with-redis-91461a8316a1)
 - [SQL Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHqFoyAJ8f-cYynn0MhYr7vO)
+- [MongoDB vs PostgreSQL: What to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)
 
 ### Design Patterns
 
@@ -149,7 +155,6 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 - [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html)
-- [OWASP Kubernetes Top 10](https://dzone.com/articles/owasp-kubernetes-top-10?edition=799397&utm_campaign=&utm_content=OWASP%20Kubernetes%20Top%2010&utm_medium=email&utm_source=dzone&utm_term=)
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist?fbclid=IwAR3jfNqAlHZwOL74y9Z0ejk7YPnQmKifW3oVBhVcZ4h6jphH242m0LVD4pQ)
 
 ### Message Queues
@@ -191,6 +196,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Career Growth: What Paths After Senior Engineer](https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/)
 - [Let’s Clean that Code](https://blog.knoldus.com/keep-your-code-clean/)
 - [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
+- [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
 
 ### Spring
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
@@ -210,6 +216,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [SpringBoot — API Versioning — Fast&Easy](https://medium.com/@DevChris01/springboot-api-versioning-fast-easy-c3ef2c87452f)
 - [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
 - [Optimistic locking with JPA and Hibernate](https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/)
+- [Spring Security Fundamentals 2022](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP)
+- [Understanding Spring Boot Architecture](https://medium.com/@mssandeepkamath/understanding-spring-boot-architecture-6083e2631bc6)
+- [Micrometer and Zipkin: How to Trace HTTP Requests in Spring Boot 3](https://www.appsdeveloperblog.com/micrometer-and-zipkin-in-spring-boot/)
 
 ### Java
 
@@ -224,6 +233,8 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [A guide to Kubernetes architecture](https://opensource.com/article/22/2/kubernetes-architecture)
 - [Kubernetes production best-practices](https://github.com/learnk8s/kubernetes-production-best-practices)
+- [List of terminal commands for Kubernetes](https://awstip.com/list-of-terminal-commands-for-kubernetes-ffc63f0dcec0)
+- [OWASP Kubernetes Top 10](https://dzone.com/articles/owasp-kubernetes-top-10?edition=799397&utm_campaign=&utm_content=OWASP%20Kubernetes%20Top%2010&utm_medium=email&utm_source=dzone&utm_term=)
 
 ### Behavioural
 
@@ -253,6 +264,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes?fbclid=IwAR39TJejBvxXglZU9Y_UYcLqyknA4zHtnoNoYVivJpyIxWPaBUl_Mwixnhg) - This Book is about good programming. It's about how to write good code, and how to transform bad code into good code.
 - [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)
 - [Gitlab Engineering](https://about.gitlab.com/handbook/engineering/)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Here are free and curated technical interview preparation materials for busy engineers
+- [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
+- [Awesome Argo](https://github.com/akuity/awesome-argo)
 
 
 ### Remote First
@@ -262,6 +276,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Turing](https://www.turing.com/)
 - [Mentormate](https://mentormate.com/)
 - [Procore technologies](https://www.procore.com/en-ae)
+- [Wizeline](https://www.wizeline.com/)
 
 ### To watch
 
