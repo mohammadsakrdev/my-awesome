@@ -81,6 +81,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
 - [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 - [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
+- [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 
 ### Software Architecture
 
@@ -129,6 +130,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [I struggle to read and write 100K requests in Postgres DB, and my aggressive solution with Redis](https://medium.datadriveninvestor.com/i-struggle-to-read-and-write-100k-requests-in-postgres-db-with-my-aggressive-solution-with-redis-91461a8316a1)
 - [SQL Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHqFoyAJ8f-cYynn0MhYr7vO)
 - [MongoDB vs PostgreSQL: What to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)
+- [Multi-version concurrency control Under the hood](https://towardsdev.com/multi-version-concurrency-control-under-the-hood-84d747098e03)
 
 ### Design Patterns
 
@@ -198,6 +200,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Let’s Clean that Code](https://blog.knoldus.com/keep-your-code-clean/)
 - [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
 - [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
+- [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk)
 
 ### Spring
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
