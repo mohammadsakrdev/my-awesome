@@ -82,6 +82,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 - [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
+- [Microservice decomposition Patterns](https://towardsdev.com/microservice-decomposition-patterns-41f2f24bec90)
 
 ### Software Architecture
 
@@ -131,6 +132,10 @@ A curated list of awesome links, frameworks, libraries and software.
 - [SQL Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHqFoyAJ8f-cYynn0MhYr7vO)
 - [MongoDB vs PostgreSQL: What to consider when choosing a database](https://www.educative.io/blog/mongodb-versus-postgresql-databases)
 - [Multi-version concurrency control Under the hood](https://towardsdev.com/multi-version-concurrency-control-under-the-hood-84d747098e03)
+- [Database Indexing under the hood](https://towardsdev.com/database-indexing-under-the-hood-5841ac77f7de)
+- [Database Durability in a nutshell](https://towardsdev.com/database-durability-in-a-nutshell-34c9f61dcbc3)
+- [Understanding Consistency](https://medium.com/nerd-for-tech/understanding-consistency-37156d9f4608)
+- [How to use Indexing Effectively](https://medium.com/nerd-for-tech/how-to-use-indexing-effectively-c69d97f0f983)
 
 ### Design Patterns
 
@@ -158,6 +163,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [CS 253 Web Security](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
 - [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html)
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist?fbclid=IwAR3jfNqAlHZwOL74y9Z0ejk7YPnQmKifW3oVBhVcZ4h6jphH242m0LVD4pQ)
+- [Most Common web vulnerabilities](https://towardsdev.com/most-common-web-vulnerabilities-d9edbd7c500f)
 
 ### Message Queues
 
@@ -167,6 +173,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Understanding message queuing systems using RabbitMQ](https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [What are Message Queues and why they are widely used in distributed systems](https://levelup.gitconnected.com/what-are-message-queues-and-why-they-are-widely-used-in-distributed-systems-cf9735e9afd7)
+- [Understanding What Messaging Systems are](https://towardsdev.com/understanding-what-messaging-systems-3550bf7c44ec)
 
 ### Problem-Solving
 
@@ -201,6 +208,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
 - [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
 - [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk)
+- [System Observability in a nutshell](https://towardsdev.com/system-observability-in-a-nutshell-72018e596ec5)
 
 ### Spring
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
@@ -282,6 +290,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Mentormate](https://mentormate.com/)
 - [Procore technologies](https://www.procore.com/en-ae)
 - [Wizeline](https://www.wizeline.com/)
+- [100+ Fully Remote Companies with Top Work From Home Jobs](https://remotive.com/blog/remote-companies/)
 
 ### To watch
 
