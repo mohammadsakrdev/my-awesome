@@ -191,6 +191,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [What happens when you type google.com into your browser and press enter?](https://www.youtube.com/watch?v=dh406O2v_1c)
 - [What happens when you type 'google.com' into a browser and press Enter?](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)
 - [Elasticsearch: What It Is, How It Works, And What It’s Used For](https://www.knowi.com/blog/what-is-elastic-search/)
+- [Elasticsearch Architecture IX: Document Versioning & Optimistic Concurrency Control](https://braineanear.medium.com/elasticsearch-architecture-ix-document-versioning-optimistic-concurrency-control-52078843eef5)
 - [REST API Naming Conventions and Best Practices](https://medium.com/@nadinCodeHat/rest-api-naming-conventions-and-best-practices-1c4e781eb6a5)
 - [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
 - [How to troubleshoot slowdowns in high data traffic APIs](https://medium.com/@romulo_pauliv/how-to-troubleshoot-slowdowns-in-high-data-traffic-apis-359245d6fdd5)
@@ -209,6 +210,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
 - [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk)
 - [System Observability in a nutshell](https://towardsdev.com/system-observability-in-a-nutshell-72018e596ec5)
+- [How to Present Your Project in a Software Engineer Job Interview](https://towardsdatascience.com/how-to-present-your-project-in-a-software-engineer-job-interview-d4d3fc184308)
 
 ### Spring
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
@@ -231,6 +233,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Spring Security Fundamentals 2022](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP)
 - [Understanding Spring Boot Architecture](https://medium.com/@mssandeepkamath/understanding-spring-boot-architecture-6083e2631bc6)
 - [Micrometer and Zipkin: How to Trace HTTP Requests in Spring Boot 3](https://www.appsdeveloperblog.com/micrometer-and-zipkin-in-spring-boot/)
+- [Tremendous Simplification of SpringBoot Development with TestContainers](https://blog.devgenius.io/tremendous-simplification-of-springboot-development-with-testcontainers-dd543fab91ed)
+- [Difference between Hibernate, JPA, and Spring Data JPA?](https://medium.com/javarevisited/difference-between-hibernate-jpa-and-spring-data-jpa-7df55717692f)
 
 ### Java
 
@@ -280,6 +284,10 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) - Here are free and curated technical interview preparation materials for busy engineers
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Awesome Argo](https://github.com/akuity/awesome-argo)
+- [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
+- [Pragmatic EngineerPragmatic Engineer](https://www.youtube.com/@mrgergelyorosz/videos)
+- [High-Performance Programming](https://www.youtube.com/@HighPerformanceProgramming/playlists)
+- [Beyond the basics](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
 
 
 ### Remote First
@@ -291,6 +299,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Procore technologies](https://www.procore.com/en-ae)
 - [Wizeline](https://www.wizeline.com/)
 - [100+ Fully Remote Companies with Top Work From Home Jobs](https://remotive.com/blog/remote-companies/)
+- [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
+- [Get.it](https://www.get.it/)
+- [Sunsoftonline](https://www.sunsoftonline.com/)
 
 ### To watch
 
