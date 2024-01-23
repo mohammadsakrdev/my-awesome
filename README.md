@@ -2,6 +2,7 @@
 A curated list of awesome links, frameworks, libraries and software.
 
 - [System Design](#system-design)
+- [Low Level Design](#low-level-design)
 - [Microservices](#microservices)
 - [Software Architecture](#software-architecture)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
@@ -17,6 +18,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Spring](#spring)
 - [Java](#java)
 - [Kubernetes](#kubernetes)
+- [Platform Engineering](#platform-engineering)
 - [Behavioural](#behavioural)
 - [Awesome](#awesome)
 - [Remote First](#remote-first)
@@ -70,6 +72,20 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale?fbclid=IwAR0OaV-cuIdsHE2_Sn_4nJ60ootRtU31yP5RQLz2_phlAlEN445-b38hvSw)
 - [How we store and process millions of orders daily](https://engineering.grab.com/how-we-store-millions-orders)
 - [From Zero to 50 Million Uploads per Day: Scaling Media at Canva](https://www.canva.dev/blog/engineering/from-zero-to-50-million-uploads-per-day-scaling-media-at-canva/)
+- [High-Level System Architecture of Booking.com](https://medium.com/@sahintalha1/high-level-system-architecture-of-booking-com-06c199003d94)
+- [Building a more accurate time service at Facebook scale](https://engineering.fb.com/2020/03/18/production-engineering/ntp-service/)
+- [MaRS: How Facebook keeps maps current and accurate](https://engineering.fb.com/2019/09/30/ml-applications/mars/)
+- [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources/blob/main/README.md#system-design-interview-problems)
+- [How idempotency helps you in building safer and more scalable software systems](https://blog.devgenius.io/how-idempotency-helps-you-in-building-safer-and-more-scalable-software-systems-3b843e78f128)
+- [How to design an efficient Idempotency API](https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb)
+- [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c)
+- [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/amp/)
+- [Mastering the Art of Caching for System Design Interviews](https://www.designgurus.io/blog/caching-system-design-interview)
+- [Create an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine?ref=architecturenotes.co)
+
+
+### Low Level Design
+- [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
 
 ### Microservices
 
@@ -95,6 +111,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [learning-ddd videos](https://virtualddd.com/learning-ddd/videos/)
 - [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
 - [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems)
+- [Hexagonal Architectures — the sequel](https://medium.com/mcdonalds-technical-blog/hexagonal-architectures-the-sequel-073c9ee79385)
 
 ### Data Structures and Algorithms
 
@@ -153,10 +170,15 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Improving Your Team’s Git Workflow](https://techblog.izotope.com/2015/07/15/improving-your-teams-git-workflow-2/)
 - [Git workflow strategies: Multiple teams in a single repository](https://blog.logrocket.com/git-workflow-strategies-multiple-teams-single-repository/)
 - [Managing a Better Git Workflow](https://medium.com/@mingloan/managing-a-better-git-workflow-556281520e1a)
+- [Best Practices for Branch Naming in Git for Successful CI/CD Implementation](https://awsomeclouds.com/best-practices-for-branch-naming-in-git-for-successful-ci-cd-implementation-f79b7ee2f09c)
 
 ### Distributed Systems
 
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+- [Asynchronous computing @Facebook: Driving efficiency and developer productivity at Facebook scale](https://engineering.fb.com/2020/08/17/production-engineering/async/)
+- [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
+- [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Exploring Key Distributed System Algorithms and Concepts Series](https://medium.com/@gurpreet.singh_89/exploring-key-distributed-system-algorithms-and-concepts-series-9-distributed-hash-tables-dht-76bfd2519695)
 
 ### Security
 
@@ -174,6 +196,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [What are Message Queues and why they are widely used in distributed systems](https://levelup.gitconnected.com/what-are-message-queues-and-why-they-are-widely-used-in-distributed-systems-cf9735e9afd7)
 - [Understanding What Messaging Systems are](https://towardsdev.com/understanding-what-messaging-systems-3550bf7c44ec)
+- [Understanding the Differences Between RabbitMQ and Kafka](https://tanzu.vmware.com/content/blog/understanding-the-differences-between-rabbitmq-vs-kafka)
 
 ### Problem-Solving
 
@@ -211,6 +234,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk)
 - [System Observability in a nutshell](https://towardsdev.com/system-observability-in-a-nutshell-72018e596ec5)
 - [How to Present Your Project in a Software Engineer Job Interview](https://towardsdatascience.com/how-to-present-your-project-in-a-software-engineer-job-interview-d4d3fc184308)
+- [A Crash Course in DNS](https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name)
 
 ### Spring
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
@@ -235,6 +259,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Micrometer and Zipkin: How to Trace HTTP Requests in Spring Boot 3](https://www.appsdeveloperblog.com/micrometer-and-zipkin-in-spring-boot/)
 - [Tremendous Simplification of SpringBoot Development with TestContainers](https://blog.devgenius.io/tremendous-simplification-of-springboot-development-with-testcontainers-dd543fab91ed)
 - [Difference between Hibernate, JPA, and Spring Data JPA?](https://medium.com/javarevisited/difference-between-hibernate-jpa-and-spring-data-jpa-7df55717692f)
+- [Unit Test on Spring Boot, Mock, Integration Test with Test Container, and Argument Capture](https://medium.com/@beratyesbek/unit-test-on-spring-boot-mock-integration-test-with-test-container-and-argument-capture-7929e34c1fc2)
+- [A Guide to Understanding and Debugging SQL Execution Plans in Spring Boot](https://dev.to/jackynote/a-guide-to-understanding-and-debugging-sql-execution-plans-in-spring-boot-5ade)
+- [](https://javed0863.medium.com/connect-multiple-databases-from-springboot-application-76b847a17077)
 
 ### Java
 
@@ -245,6 +272,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Exploring Collectors by Venkat Subramaniam](https://www.youtube.com/watch?v=pGroX3gmeP8)
 - [Exception Handling in Functional and Reactive Programming by Venkat Subramaniam](https://www.youtube.com/watch?v=S5tLVsvbHBg)
 - [Functional Programming in Modern Java Douglas Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V)
+- [JAVA 8 STREAM API](https://youlearncode.com/java-8-stream-api/)
+- [Implement distributed tracing with Jaeger & Opentelemetry on Kubernetes](https://medium.com/@akashjoffical08/implement-distributed-tracing-with-jaeger-opentelemetry-on-kubernetes-3e35cb77b536)
+- [A Complete Guide on ExecutorService In Java](https://medium.com/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b)
 
 ### Kubernetes
 
@@ -252,6 +282,17 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Kubernetes production best-practices](https://github.com/learnk8s/kubernetes-production-best-practices)
 - [List of terminal commands for Kubernetes](https://awstip.com/list-of-terminal-commands-for-kubernetes-ffc63f0dcec0)
 - [OWASP Kubernetes Top 10](https://dzone.com/articles/owasp-kubernetes-top-10?edition=799397&utm_campaign=&utm_content=OWASP%20Kubernetes%20Top%2010&utm_medium=email&utm_source=dzone&utm_term=)
+- [Why do I need an API Gateway on a Kubernetes cluster](https://medium.com/@martin.hodges/why-do-i-need-an-api-gateway-on-a-kubernetes-cluster-c70f15da836c)
+- [Adding Grafana visualisation to a Kubernetes cluster with Prometheus](https://medium.com/@martin.hodges/adding-grafana-visualisation-to-a-kubernetes-cluster-with-prometheus-458de42f2896)
+- [Understanding Kubernetes Architecture: A Comprehensive Guide](https://devopscube.com/kubernetes-architecture-explained/)
+- [Adding observability to a Kubernetes cluster using Prometheus](https://medium.com/@martin.hodges/adding-observability-to-a-kubernetes-cluster-using-prometheus-c2cba6c0fdaa)
+- [Making Sense of Kubernetes CPU Requests And Limits](https://medium.com/@jettycloud/making-sense-of-kubernetes-cpu-requests-and-limits-390bbb5b7c92)
+- [OWASP Kubernetes Top 10: A Comprehensive Guide](https://medium.com/@seifeddinerajhi/owasp-kubernetes-top-10-a-comprehensive-guide-f03af6fd66ed)
+- [Prometheus and its storage: Architecture, challenges, and solutions](https://blog.palark.com/prometheus-architecture-tsdb/)
+- [Dynamic Service Scaling with Spring Microservices on Kubernetes](https://medium.com/@AlexanderObregon/dynamic-service-scaling-with-spring-microservices-on-kubernetes-cb1c0a69ad9c)
+
+### Platform Engineering
+- [Build a Lightweight Internal Developer Platform with Argo CD and Kubernetes Labels](https://itnext.io/build-a-lightweight-internal-developer-platform-with-argo-cd-and-kubernetes-labels-4c0e52c6c0f4)
 
 ### Behavioural
 
@@ -267,6 +308,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Secret Art of Salary Negotiation](https://www.nicksingh.com/posts/the-secret-art-of-salary-negotiation#section1)
 - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
 - [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
+- [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
+- [How To Respond To Feedback You Disagree With](https://developingskills.substack.com/p/how-to-respond-to-feedback-you-disagree)
 
 ### Awesome
 
@@ -285,9 +328,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Awesome Argo](https://github.com/akuity/awesome-argo)
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
-- [Pragmatic EngineerPragmatic Engineer](https://www.youtube.com/@mrgergelyorosz/videos)
+- [Pragmatic Engineer](https://www.youtube.com/@mrgergelyorosz/videos)
 - [High-Performance Programming](https://www.youtube.com/@HighPerformanceProgramming/playlists)
 - [Beyond the basics](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
+- [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [Tech Company Engineering Blogs](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
 
 
 ### Remote First
