@@ -105,6 +105,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 - [Transactions in a Microservice World](https://wso2.com/whitepapers/transactions-in-a-microservice-world/)
 - [Microservice decomposition Patterns](https://towardsdev.com/microservice-decomposition-patterns-41f2f24bec90)
+- [Building Resilient Microservices: Strategies for Handling Failures](https://dip-mazumder.medium.com/building-resilient-microservices-strategies-for-handling-failures-in-stock-price-notification-629a3e206f41)
+- [Java Microservices Architecture: Inter-Service Communication](https://dip-mazumder.medium.com/java-microservices-architecture-inter-service-communication-use-cases-7d1d31b2617)
 
 ### Software Architecture
 
@@ -133,6 +135,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 - [How to write REST API Specification](https://medium.com/@systemdesignbychk/system-design-how-to-write-rest-api-specification-b3eb22be2c70)
 - [Webhooks Integration Best Practices](https://medium.com/@alexdorand/webhooks-integration-best-practice-bc3bb2e1a8e2)
+- [Efficient Concurrency Management: Optimistic Locking and Message Queues for Room Reservation API](https://blog.devops.dev/optimistic-locking-and-message-queues-solving-concurrency-challenges-in-room-reservation-ca0e661b63fd)
 
 ### Data Structures and Algorithms
 
@@ -174,6 +177,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Database Durability in a nutshell](https://towardsdev.com/database-durability-in-a-nutshell-34c9f61dcbc3)
 - [Understanding Consistency](https://medium.com/nerd-for-tech/understanding-consistency-37156d9f4608)
 - [How to use Indexing Effectively](https://medium.com/nerd-for-tech/how-to-use-indexing-effectively-c69d97f0f983)
+- [Database Optimization: Troubleshoot Slow Database Query](https://dip-mazumder.medium.com/database-optimization-troubleshoot-slow-database-query-b66f3dbea42f)
 
 ### Design Patterns
 
@@ -222,6 +226,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [What are Message Queues and why they are widely used in distributed systems](https://levelup.gitconnected.com/what-are-message-queues-and-why-they-are-widely-used-in-distributed-systems-cf9735e9afd7)
 - [Understanding What Messaging Systems are](https://towardsdev.com/understanding-what-messaging-systems-3550bf7c44ec)
 - [Understanding the Differences Between RabbitMQ and Kafka](https://tanzu.vmware.com/content/blog/understanding-the-differences-between-rabbitmq-vs-kafka)
+- [Exploring Apache Kafka’s APIs: A Guide with Implementation](https://dip-mazumder.medium.com/exploring-apache-kafkas-apis-a-guide-with-practical-implementation-3f1bd389f097)
+- [Choosing the Right Message Broker: A Comparative Analysis of RabbitMQ and Kafka](https://dip-mazumder.medium.com/choosing-the-right-message-broker-a-comparative-analysis-of-rabbitmq-and-kafka-a0ba49a457e0)
 
 ### ElasticSearch
 
@@ -320,6 +326,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java 8 Interview Questions](https://www.baeldung.com/java-8-interview-questions)
 - [Important Features — Java 9, Java 10, Java 11, Java 12, Java13, Java 14, Java 15, Java 16, Java 17](https://medium.com/@vijayaneraye/important-features-java-9-java-10-java-11-java-12-java13-java-14-java-15-java-16-java-17-650420ee7337)
 - [New language features since Java 8 to 21](https://advancedweb.hu/new-language-features-since-java-8-to-21/)
+- [Java Concurrency 101: Understanding Multithreading Fundamentals](https://dip-mazumder.medium.com/java-concurrency-101-understanding-multithreading-fundamentals-e5ed48b04ca5)
+- [Reactive Programming in Java](https://medium.com/sysco-labs/reactive-programming-in-java-8d1f5c648012)
 
 ### Kubernetes
 
