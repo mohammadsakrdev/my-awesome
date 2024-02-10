@@ -5,6 +5,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Low Level Design](#low-level-design)
 - [Microservices](#microservices)
 - [Software Architecture](#software-architecture)
+- [API](#api)
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Database](#database)
 - [Design Patterns](#design-patterns)
@@ -13,7 +14,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Distributed Systems](#distributed-systems)
 - [Security](#security)
 - [Message Queues](#message-queues)
+- [ElasticSearch](#ElasticSearch)
 - [Problem-Solving](#problem-solving)
+- [Network](#network)
 - [Common](#common)
 - [Spring](#spring)
 - [Java](#java)
@@ -77,11 +80,14 @@ A curated list of awesome links, frameworks, libraries and software.
 - [MaRS: How Facebook keeps maps current and accurate](https://engineering.fb.com/2019/09/30/ml-applications/mars/)
 - [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources/blob/main/README.md#system-design-interview-problems)
 - [How idempotency helps you in building safer and more scalable software systems](https://blog.devgenius.io/how-idempotency-helps-you-in-building-safer-and-more-scalable-software-systems-3b843e78f128)
-- [How to design an efficient Idempotency API](https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb)
 - [Load Balancer vs. Reverse Proxy vs. API Gateway](https://medium.com/geekculture/load-balancer-vs-reverse-proxy-vs-api-gateway-e9ec5809180c)
 - [How DoorDash Standardized and Improved Microservices Caching](https://doordash.engineering/2023/10/19/how-doordash-standardized-and-improved-microservices-caching/amp/)
 - [Mastering the Art of Caching for System Design Interviews](https://www.designgurus.io/blog/caching-system-design-interview)
 - [Create an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine?ref=architecturenotes.co)
+- [Design a Distributed Job Scheduler for Millions of Tasks in Daily Operations](https://medium.com/@mayilb77/design-a-distributed-job-scheduler-for-millions-of-tasks-in-daily-operations-4132dc6d645f)
+- [How Shopify broke its Black Friday record (System Design case study)](https://learningdaily.dev/how-shopify-broke-its-black-friday-record-system-design-case-study-f45f25bbc451)
+- [How Tinder built the API Gateway ? Insightful Notes](https://medium.com/javarevisited/how-tinder-built-the-api-gateway-insightful-design-notes-829e8c7e1f45)
+- [Strategies to Share Code Between Services](https://newsletter.systemdesigncodex.com/p/strategies-to-share-code-between-services)
 
 
 ### Low Level Design
@@ -105,13 +111,28 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [Software Architecture GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA)
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
-- [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
+- [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)f
 - [CQRS: What? Why? How?](https://sderosiaux.medium.com/cqrs-what-why-how-945543482313)
 - [Software Architecture Concepts](https://blog.cmpsamurai.com/series/software-architecture)
 - [learning-ddd videos](https://virtualddd.com/learning-ddd/videos/)
 - [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
 - [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems)
 - [Hexagonal Architectures — the sequel](https://medium.com/mcdonalds-technical-blog/hexagonal-architectures-the-sequel-073c9ee79385)
+- [Practical DDD — Setting The Right Foundations](https://medium.com/augury-research-and-development/practical-ddd-part-1-setting-the-right-foundations-5b7e4b16c9e8)
+- [The Complete Guide to Event-Driven Architecture](https://solace.com/what-is-event-driven-architecture/)
+- [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+
+### API
+- [API Primer: Core Concepts in API Strategy and Architecture](https://medium.com/api-center/api-primer-core-concepts-in-api-strategy-and-architecture-b0378a9b2b79)
+- [REST API Naming Conventions and Best Practices](https://medium.com/@nadinCodeHat/rest-api-naming-conventions-and-best-practices-1c4e781eb6a5)
+- [Best Practices for designing REST APIs](https://medium.com/@bubu.tripathy/best-practices-for-designing-rest-apis-5b1809545e3c)
+- [How to design an efficient Idempotency API](https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb)
+- [Designing an Idempotent API](https://blog.bitsrc.io/design-an-idempotent-api-in-2024-d4a3cf8d8bf2)
+- [API Best Practices: Webhooks, Deprecation, and Design](https://zapier.com/engineering/api-best-practices/)
+- [How to troubleshoot slowdowns in high data traffic APIs](https://medium.com/@romulo_pauliv/how-to-troubleshoot-slowdowns-in-high-data-traffic-apis-359245d6fdd5)
+- [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
+- [How to write REST API Specification](https://medium.com/@systemdesignbychk/system-design-how-to-write-rest-api-specification-b3eb22be2c70)
+- [Webhooks Integration Best Practices](https://medium.com/@alexdorand/webhooks-integration-best-practice-bc3bb2e1a8e2)
 
 ### Data Structures and Algorithms
 
@@ -171,6 +192,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Git workflow strategies: Multiple teams in a single repository](https://blog.logrocket.com/git-workflow-strategies-multiple-teams-single-repository/)
 - [Managing a Better Git Workflow](https://medium.com/@mingloan/managing-a-better-git-workflow-556281520e1a)
 - [Best Practices for Branch Naming in Git for Successful CI/CD Implementation](https://awsomeclouds.com/best-practices-for-branch-naming-in-git-for-successful-ci-cd-implementation-f79b7ee2f09c)
+- [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
 
 ### Distributed Systems
 
@@ -179,6 +201,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Exploring Key Distributed System Algorithms and Concepts Series](https://medium.com/@gurpreet.singh_89/exploring-key-distributed-system-algorithms-and-concepts-series-9-distributed-hash-tables-dht-76bfd2519695)
+- [Handling time zones in distributed systems](https://blogs.oracle.com/javamagazine/post/java-timezone-part-1)
 
 ### Security
 
@@ -186,6 +209,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [OWASP Top 10](https://www.synopsys.com/glossary/what-is-owasp-top-10.html)
 - [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist?fbclid=IwAR3jfNqAlHZwOL74y9Z0ejk7YPnQmKifW3oVBhVcZ4h6jphH242m0LVD4pQ)
 - [Most Common web vulnerabilities](https://towardsdev.com/most-common-web-vulnerabilities-d9edbd7c500f)
+- [JSON Web Tokens and Authentication](https://newsletter.systemdesigncodex.com/p/json-web-tokens-and-authentication)
+- [What is OIDC and where and why it is used](https://medium.com/@martin.hodges/an-is-oidc-and-where-and-why-it-is-used-e03bcbcf1703)
 
 ### Message Queues
 
@@ -198,6 +223,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Understanding What Messaging Systems are](https://towardsdev.com/understanding-what-messaging-systems-3550bf7c44ec)
 - [Understanding the Differences Between RabbitMQ and Kafka](https://tanzu.vmware.com/content/blog/understanding-the-differences-between-rabbitmq-vs-kafka)
 
+### ElasticSearch
+
+- [Elasticsearch: What It Is, How It Works, And What It’s Used For](https://www.knowi.com/blog/what-is-elastic-search/)
+- [Elasticsearch Architecture IX: Document Versioning & Optimistic Concurrency Control](https://braineanear.medium.com/elasticsearch-architecture-ix-document-versioning-optimistic-concurrency-control-52078843eef5)
+- [The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/#latest-on-the-elk-stack)
+
 ### Problem-Solving
 
 - [Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)
@@ -207,36 +238,35 @@ A curated list of awesome links, frameworks, libraries and software.
 - [73 data structure interview questions (with solutions and cheat sheet)](https://igotanoffer.com/blogs/tech/data-structure-interview-questions?_pos=63&_sid=ec68c0f85&_ss=r)
 - [Cracking the Coding Interview Dinesh Varyani](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3v9gBrV7xwiMod-EA3nMjWl)
 
-### Common
+### Network
 
-- [API Best Practices: Webhooks, Deprecation, and Design](https://zapier.com/engineering/api-best-practices/)
 - [How the Domain Name System (DNS) works - Basics](https://dev.to/webdeasy/how-the-domain-name-system-dns-works-basics-1inp)
 - [What happens when you type google.com into your browser and press enter?](https://www.youtube.com/watch?v=dh406O2v_1c)
 - [What happens when you type 'google.com' into a browser and press Enter?](https://dev.to/antonfrattaroli/what-happens-when-you-type-googlecom-into-a-browser-and-press-enter-39g8)
-- [Elasticsearch: What It Is, How It Works, And What It’s Used For](https://www.knowi.com/blog/what-is-elastic-search/)
-- [Elasticsearch Architecture IX: Document Versioning & Optimistic Concurrency Control](https://braineanear.medium.com/elasticsearch-architecture-ix-document-versioning-optimistic-concurrency-control-52078843eef5)
-- [REST API Naming Conventions and Best Practices](https://medium.com/@nadinCodeHat/rest-api-naming-conventions-and-best-practices-1c4e781eb6a5)
+- [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk)
+- [A Crash Course in DNS](https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name)
+
+### Common
+
 - [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
-- [How to troubleshoot slowdowns in high data traffic APIs](https://medium.com/@romulo_pauliv/how-to-troubleshoot-slowdowns-in-high-data-traffic-apis-359245d6fdd5)
 - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/?utm_source=programmingdigest&utm_medium&utm_campaign=1629&fbclid=IwAR1Imzensg3WfXo2eQPFqJwaIPxMCZHBr6ueDDHr_jMILHVs6HvEe-UI25w&mibextid=S66gvF)
-- [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
-- [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
-- [Best Practices for designing REST APIs](https://medium.com/@bubu.tripathy/best-practices-for-designing-rest-apis-5b1809545e3c)
 - [Zalando: How to pass the interview](https://clevercoder.net/2018/04/14/zalando-how-to-pass-the-interview/)
 - [Zalando – Interview Questions](https://codedaily.in/zalando-interview-questions/)
-- [Interview preparation tips for Java developers](https://engineering.zalando.com/posts/2016/06/interview-preparation-tips-for-java-developers.html)
-- [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
 - [Career Growth: What Paths After Senior Engineer](https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/)
 - [Let’s Clean that Code](https://blog.knoldus.com/keep-your-code-clean/)
 - [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
 - [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
-- [OSI Layers - ملخص ايه اللى بيحصل من وراك لما بتفتح موقع انترنت](https://www.youtube.com/watch?v=A31bxOyj5mk)
 - [System Observability in a nutshell](https://towardsdev.com/system-observability-in-a-nutshell-72018e596ec5)
 - [How to Present Your Project in a Software Engineer Job Interview](https://towardsdatascience.com/how-to-present-your-project-in-a-software-engineer-job-interview-d4d3fc184308)
-- [A Crash Course in DNS](https://blog.bytebytego.com/p/a-crash-course-in-dns-domain-name)
+- [5 ways to review code without wasting everyone’s time](https://medium.com/volvo-cars-engineering/5-ways-to-review-code-without-wasting-everyones-time-aedeecc51094)
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
+- [Post mortem on Linear incident from Jan 24th, 2024](https://linear.app/blog/linear-incident-on-jan-24th-2024)
 
 ### Spring
+
+- [Top Spring Framework Interview Questions](https://www.baeldung.com/spring-interview-questions)
 - [Secure REST End Points with Spring Security & JWT(JASON Web Token)](https://medium.com/thefreshwrites/secure-rest-end-points-with-spring-security-jwt-jason-web-token-7e2800f13b2f)
 - [How to handle incoming requests in Java with Spring Boot](https://medium.com/@burakkocakeu/how-to-handle-incoming-requests-in-java-with-spring-boot-b46cb35ed520)
 - [How Experienced Developers Use Enums in APIs](https://levelup.gitconnected.com/how-experienced-developers-use-enums-in-apis-7798504e1857)
@@ -261,7 +291,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Difference between Hibernate, JPA, and Spring Data JPA?](https://medium.com/javarevisited/difference-between-hibernate-jpa-and-spring-data-jpa-7df55717692f)
 - [Unit Test on Spring Boot, Mock, Integration Test with Test Container, and Argument Capture](https://medium.com/@beratyesbek/unit-test-on-spring-boot-mock-integration-test-with-test-container-and-argument-capture-7929e34c1fc2)
 - [A Guide to Understanding and Debugging SQL Execution Plans in Spring Boot](https://dev.to/jackynote/a-guide-to-understanding-and-debugging-sql-execution-plans-in-spring-boot-5ade)
-- [](https://javed0863.medium.com/connect-multiple-databases-from-springboot-application-76b847a17077)
+- [Connect multiple databases from Springboot application](https://javed0863.medium.com/connect-multiple-databases-from-springboot-application-76b847a17077)
+- [Mastering Testing Efficiency in Spring Boot](https://engineering.zalando.com/posts/2023/11/mastering-testing-efficiency-in-spring-boot-optimization-strategies-and-best-practices.html)
+- [Applying SOLID Principles to Spring Boot Applications](https://medium.com/@saygiligozde/applying-solid-principles-to-spring-boot-applications-191d7e50e1b3)
 
 ### Java
 
@@ -275,6 +307,19 @@ A curated list of awesome links, frameworks, libraries and software.
 - [JAVA 8 STREAM API](https://youlearncode.com/java-8-stream-api/)
 - [Implement distributed tracing with Jaeger & Opentelemetry on Kubernetes](https://medium.com/@akashjoffical08/implement-distributed-tracing-with-jaeger-opentelemetry-on-kubernetes-3e35cb77b536)
 - [A Complete Guide on ExecutorService In Java](https://medium.com/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b)
+- [Generics in Java](https://salithachathuranga94.medium.com/generics-in-java-3c791555e924)
+- [Navigating Java Developer Interviews](https://medium.com/javarevisited/navigating-java-developer-interviews-core-concepts-spring-insights-design-patterns-coding-9101ef4f769c)
+- [The Power of Java Stream APIThe Power of Java Stream API](https://medium.com/@AlexanderObregon/the-power-of-java-stream-api-d7c0ab7e4c5a)
+- [JVM internals for the Java job interview](https://medium.com/@dalibor.plavcic/jvm-internals-for-the-java-job-interview-83257d038134)
+- [Interfaces and Default methods in Java](https://medium.com/@aprayush20/interfaces-and-default-methods-in-java-5a30ef3ba5d3)
+- [Java programming: A deep dive into Java 21’s key features](https://medium.com/capital-one-tech/java-programming-a-deep-dive-into-java-21s-key-features-8776f75bc6b8)
+- [Understanding SOLID Principles in Java: Code Examples and Best Practices](https://medium.com/@furkanalniak/understanding-solid-principles-in-java-code-examples-and-best-practices-f6451bb5198e)
+- [Interview preparation tips for Java developers](https://engineering.zalando.com/posts/2016/06/interview-preparation-tips-for-java-developers.html)
+- [Top 30 Java-8 Interview Questions & Answers to Ace Your Java Interview](https://rathod-ajay.medium.com/top-30-java-8-interview-questions-answers-to-ace-your-java-interview-includes-coding-questions-d19fbd4510cd)
+- [Unravelling Java 8: Mastering Key Features for Exceptional Development](https://medium.com/@HARSHMISHRA_HMC/unravelling-java-8-mastering-key-features-for-exceptional-development-9d24e2d06ef8)
+- [Java 8 Interview Questions](https://www.baeldung.com/java-8-interview-questions)
+- [Important Features — Java 9, Java 10, Java 11, Java 12, Java13, Java 14, Java 15, Java 16, Java 17](https://medium.com/@vijayaneraye/important-features-java-9-java-10-java-11-java-12-java13-java-14-java-15-java-16-java-17-650420ee7337)
+- [New language features since Java 8 to 21](https://advancedweb.hu/new-language-features-since-java-8-to-21/)
 
 ### Kubernetes
 
@@ -290,6 +335,11 @@ A curated list of awesome links, frameworks, libraries and software.
 - [OWASP Kubernetes Top 10: A Comprehensive Guide](https://medium.com/@seifeddinerajhi/owasp-kubernetes-top-10-a-comprehensive-guide-f03af6fd66ed)
 - [Prometheus and its storage: Architecture, challenges, and solutions](https://blog.palark.com/prometheus-architecture-tsdb/)
 - [Dynamic Service Scaling with Spring Microservices on Kubernetes](https://medium.com/@AlexanderObregon/dynamic-service-scaling-with-spring-microservices-on-kubernetes-cb1c0a69ad9c)
+- [Efficient Application Log Collection and Analysis using OpenTelemetry and Loki](https://addozhang.medium.com/efficient-application-log-collection-and-analysis-using-opentelemetry-and-loki-baf04bc4a8a2)
+- [A Hands-on Kubernetes Network Troubleshooting Journey](https://itnext.io/a-hands-on-kubernetes-network-troubleshooting-journey-c2b051ce6761)
+- [Simplifying Kubernetes Logging with EFK Stack](https://medium.com/@tech_18484/simplifying-kubernetes-logging-with-efk-stack-158da47ce982)
+- [AWS VPC Design: A Practical Approach For Beginners](https://devopscube.com/aws-vpc-design/)
+- [How to Achieve Zero-Downtime Application with Kubernetes](https://www.qovery.com/blog/how-to-achieve-zero-downtime-application-with-kubernetes/)
 
 ### Platform Engineering
 - [Build a Lightweight Internal Developer Platform with Argo CD and Kubernetes Labels](https://itnext.io/build-a-lightweight-internal-developer-platform-with-argo-cd-and-kubernetes-labels-4c0e52c6c0f4)
@@ -372,3 +422,5 @@ A curated list of awesome links, frameworks, libraries and software.
 - [podinfo](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 - [Introducing basic CQRS by refactoring a Go project](https://threedots.tech/post/basic-cqrs-in-go/)
 - [Finding The Best Go Project Structure — Part 1](https://itnext.io/finding-the-best-go-project-structure-part-1-5290bc1d869d)
+- [Go Concurrency Essentials](https://www.adrianpk.com/go-concurrency-essentials/)
+- [Getting Started with OpenTelemetry in distributed Go Microservices](https://medium.com/wesovilabs/getting-started-with-opentelemetry-in-distributed-go-microservices-192e7e21bd7c)
