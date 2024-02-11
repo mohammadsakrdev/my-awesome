@@ -188,6 +188,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
 - [Object-Oriented Programming (OOP) in JAVA](https://vaheaslanyan7.medium.com/object-oriented-programming-oop-in-java-00ff487c98c9)
+- [Top 14 Interview questions On Abstraction principle to ace your next Object-Oriented Programming Interview](https://medium.com/javarevisited/master-the-art-of-object-oriented-programming-expert-recommended-abstraction-questions-for-java-d82f8dfc3ff4)
 
 ### Git
 
@@ -341,7 +342,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java Garbage Collection 101— Java 8 Changes, Interview questions, Commands & Algorithms](https://medium.com/javarevisited/java-garbage-collection-101-java-8-changes-interview-questions-commands-algorithms-212ee5349a4c)
 - [Java Concurrency 101: Understanding Multithreading Fundamentals](https://dip-mazumder.medium.com/java-concurrency-101-understanding-multithreading-fundamentals-e5ed48b04ca5)
 - [Java Advanced Concurrency Interview Questions](https://medium.com/@vikas.taank_40391/java-advanced-concurrency-interview-questions-69449655ba9b)
-- [Top 14 Interview questions On Abstraction principle to ace your next Object-Oriented Programming Interview](https://medium.com/javarevisited/master-the-art-of-object-oriented-programming-expert-recommended-abstraction-questions-for-java-d82f8dfc3ff4)
 - [Senior Java Lead Interview Questions](https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part1-cad6ccc115f4)
 
 ### Kubernetes
