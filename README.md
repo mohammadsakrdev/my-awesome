@@ -329,7 +329,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java 17 Features you must know](https://medium.com/@vikas.taank_40391/java-17-features-you-must-know-685ead229f16)
 - [Java21 Features you must know](https://medium.com/@vikas.taank_40391/java21-features-you-must-know-40f57035e858)
 - [Interview preparation tips for Java developers](https://engineering.zalando.com/posts/2016/06/interview-preparation-tips-for-java-developers.html)
-- [Java interview questions and answers for 2023](https://www.turing.com/interview-questions/java)
 - [Top 30 Java-8 Interview Questions & Answers to Ace Your Java Interview](https://rathod-ajay.medium.com/top-30-java-8-interview-questions-answers-to-ace-your-java-interview-includes-coding-questions-d19fbd4510cd)
 - [Tricky Java interview questions for 7 years of Experience](https://medium.com/javarevisited/tricky-java-interview-questions-for-7-years-of-experience-c2d2bf37d746)
 - [Java 8 Interview Questions](https://www.baeldung.com/java-8-interview-questions)
