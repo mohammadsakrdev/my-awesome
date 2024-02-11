@@ -315,7 +315,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [A Complete Guide on ExecutorService In Java](https://medium.com/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b)
 - [Generics in Java](https://salithachathuranga94.medium.com/generics-in-java-3c791555e924)
 - [CompletableFuture- Advance Deep Dive](https://medium.com/@vikas.taank_40391/completablefuture-advance-deep-dive-369664e8d218)
-- [The Power of Java Stream APIThe Power of Java Stream API](https://medium.com/@AlexanderObregon/the-power-of-java-stream-api-d7c0ab7e4c5a)
+- [The Power of Java Stream API](https://medium.com/@AlexanderObregon/the-power-of-java-stream-api-d7c0ab7e4c5a)
 - [JVM internals for the Java job interview](https://medium.com/@dalibor.plavcic/jvm-internals-for-the-java-job-interview-83257d038134)
 - [Interfaces and Default methods in Java](https://medium.com/@aprayush20/interfaces-and-default-methods-in-java-5a30ef3ba5d3)
 - [Understanding SOLID Principles in Java: Code Examples and Best Practices](https://medium.com/@furkanalniak/understanding-solid-principles-in-java-code-examples-and-best-practices-f6451bb5198e)
