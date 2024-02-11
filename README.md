@@ -187,6 +187,7 @@ A curated list of awesome links, frameworks, libraries and software.
 ### Object Oriented Design
 
 - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
+- [Object-Oriented Programming (OOP) in JAVA](https://vaheaslanyan7.medium.com/object-oriented-programming-oop-in-java-00ff487c98c9)
 
 ### Git
 
@@ -302,6 +303,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Applying SOLID Principles to Spring Boot Applications](https://medium.com/@saygiligozde/applying-solid-principles-to-spring-boot-applications-191d7e50e1b3)
 - [Top 60 Spring-Framework Interview Questions for Java Developers](https://rathod-ajay.medium.com/top-60-spring-framework-interview-questions-for-java-developers-2024-contain-all-the-questions-from-f15621f77d2a)
 - [What is N+1 query generate problem in Spring Data Jpa and how to solve it](https://medium.com/@kiarash.shamaii/what-is-n-1-query-generate-problem-in-spring-data-jpa-and-how-to-solve-it-2f3b9f1a7a0b)
+- [Optimizing Queries with @Query Annotation in Spring Data JPA](https://medium.com/@AlexanderObregon/optimizing-queries-with-query-annotation-in-spring-data-jpa-fe213c8a60a)
+- [Understanding Spring Security Authentication Flow](https://medium.com/@aprayush20/understanding-spring-security-authentication-flow-f9bb545bd77)
 
 ### Java
 
@@ -317,7 +320,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [CompletableFuture- Advance Deep Dive](https://medium.com/@vikas.taank_40391/completablefuture-advance-deep-dive-369664e8d218)
 - [The Power of Java Stream API](https://medium.com/@AlexanderObregon/the-power-of-java-stream-api-d7c0ab7e4c5a)
 - [JVM internals for the Java job interview](https://medium.com/@dalibor.plavcic/jvm-internals-for-the-java-job-interview-83257d038134)
-- [Interfaces and Default methods in Java](https://medium.com/@aprayush20/interfaces-and-default-methods-in-java-5a30ef3ba5d3)
 - [Understanding SOLID Principles in Java: Code Examples and Best Practices](https://medium.com/@furkanalniak/understanding-solid-principles-in-java-code-examples-and-best-practices-f6451bb5198e)
 - [Unravelling Java 8: Mastering Key Features for Exceptional Development](https://medium.com/@HARSHMISHRA_HMC/unravelling-java-8-mastering-key-features-for-exceptional-development-9d24e2d06ef8)
 - [Java programming: A deep dive into Java 21’s key features](https://medium.com/capital-one-tech/java-programming-a-deep-dive-into-java-21s-key-features-8776f75bc6b8)
