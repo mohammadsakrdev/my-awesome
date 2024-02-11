@@ -186,7 +186,6 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Object Oriented Design
 
-- [How I Cracked the Object-Oriented Design Interview at Amazon](https://www.davidseek.com/ood/)
 - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
 
 ### Git
