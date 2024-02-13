@@ -59,7 +59,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Caching: system design interview concepts (6 of 9)](https://igotanoffer.com/blogs/tech/caching-system-design-interview)
 - [Sharding: system design interview concepts (7 of 9)](https://igotanoffer.com/blogs/tech/sharding-system-design-interview?_pos=6&_sid=ec68c0f85&_ss=r)
 - [Polling, server sent events, and WebSockets: system design interview concepts (8 of 9)](https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview?_pos=14&_sid=ec68c0f85&_ss=r)
-  [Queues and pub-sub: system design interview concepts (9 of 9)](https://igotanoffer.com/blogs/tech/queues-pubsub-system-design-interview?_pos=12&_sid=ec68c0f85&_ss=r)
+- [Queues and pub-sub: system design interview concepts (9 of 9)](https://igotanoffer.com/blogs/tech/queues-pubsub-system-design-interview?_pos=12&_sid=ec68c0f85&_ss=r)
 - [System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
 - [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 - [A Comprehensive Guide to Distributed Caching](https://blog.devgenius.io/a-comprehensive-guide-to-distributed-caching-827f1fa5a184)
@@ -91,6 +91,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 
 ### Low Level Design
+
 - [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
 
 ### Microservices
@@ -125,6 +126,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
 
 ### API
+
 - [API Primer: Core Concepts in API Strategy and Architecture](https://medium.com/api-center/api-primer-core-concepts-in-api-strategy-and-architecture-b0378a9b2b79)
 - [REST API Naming Conventions and Best Practices](https://medium.com/@nadinCodeHat/rest-api-naming-conventions-and-best-practices-1c4e781eb6a5)
 - [Best Practices for designing REST APIs](https://medium.com/@bubu.tripathy/best-practices-for-designing-rest-apis-5b1809545e3c)
@@ -188,6 +190,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
 - [Object-Oriented Programming (OOP) in JAVA](https://vaheaslanyan7.medium.com/object-oriented-programming-oop-in-java-00ff487c98c9)
+- [Preparing for a Java Interview? Here are the Top 19 OOPS Questions That You Need to Know](https://medium.com/javarevisited/preparing-for-a-java-interview-here-are-the-top-19-oops-questions-that-you-need-to-know-6cc6dde3d4c3)
 - [Top 14 Interview questions On Abstraction principle to ace your next Object-Oriented Programming Interview](https://medium.com/javarevisited/master-the-art-of-object-oriented-programming-expert-recommended-abstraction-questions-for-java-d82f8dfc3ff4)
 
 ### Git
@@ -271,6 +274,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 - [Post mortem on Linear incident from Jan 24th, 2024](https://linear.app/blog/linear-incident-on-jan-24th-2024)
+- [Do you know RSA and AES encryption well enough?](https://dasvarsha.medium.com/appsec-a-developers-handbook-to-mastering-rsa-and-aes-encryption-9c0e6465452f)
 
 ### Spring
 
@@ -290,16 +294,15 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to configure Kubernetes memory limits for Java application](https://medium.com/@mark.andreev/how-to-configure-kubernetes-memory-limits-for-java-application-ec0cc5a68c24)
 - [Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot-best-practices-and-pro-tips-3fc0f501418e)
 - [SpringBoot — API Versioning — Fast&Easy](https://medium.com/@DevChris01/springboot-api-versioning-fast-easy-c3ef2c87452f)
-- [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
+- [Hexagonal architecture and Domain Driven Design](xhttps://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
 - [Optimistic locking with JPA and Hibernate](https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/)
 - [Spring Security Fundamentals 2022](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP)
-- [Understanding Spring Boot Architecture](https://medium.com/@mssandeepkamath/understanding-spring-boot-architecture-6083e2631bc6)
 - [Micrometer and Zipkin: How to Trace HTTP Requests in Spring Boot 3](https://www.appsdeveloperblog.com/micrometer-and-zipkin-in-spring-boot/)
 - [Tremendous Simplification of SpringBoot Development with TestContainers](https://blog.devgenius.io/tremendous-simplification-of-springboot-development-with-testcontainers-dd543fab91ed)
 - [Difference between Hibernate, JPA, and Spring Data JPA?](https://medium.com/javarevisited/difference-between-hibernate-jpa-and-spring-data-jpa-7df55717692f)
 - [Unit Test on Spring Boot, Mock, Integration Test with Test Container, and Argument Capture](https://medium.com/@beratyesbek/unit-test-on-spring-boot-mock-integration-test-with-test-container-and-argument-capture-7929e34c1fc2)
 - [A Guide to Understanding and Debugging SQL Execution Plans in Spring Boot](https://dev.to/jackynote/a-guide-to-understanding-and-debugging-sql-execution-plans-in-spring-boot-5ade)
-- [Connect multiple databases from Springboot application](https://javed0863.medium.com/connect-multiple-databases-from-springboot-application-76b847a17077)
+- [Multi Database Connections with Spring Boot](https://riteshshergill.medium.com/multi-database-connections-with-spring-boot-80d66f97d39f)
 - [Mastering Testing Efficiency in Spring Boot](https://engineering.zalando.com/posts/2023/11/mastering-testing-efficiency-in-spring-boot-optimization-strategies-and-best-practices.html)
 - [Applying SOLID Principles to Spring Boot Applications](https://medium.com/@saygiligozde/applying-solid-principles-to-spring-boot-applications-191d7e50e1b3)
 - [Top 60 Spring-Framework Interview Questions for Java Developers](https://rathod-ajay.medium.com/top-60-spring-framework-interview-questions-for-java-developers-2024-contain-all-the-questions-from-f15621f77d2a)
@@ -342,10 +345,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java Advanced Concurrency Interview Questions](https://medium.com/@vikas.taank_40391/java-advanced-concurrency-interview-questions-69449655ba9b)
 - [Senior Java Lead Interview Questions](https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part1-cad6ccc115f4)
 - [Data Structures and Algorithms: A Java Cheatsheet](https://cbarkinozer.medium.com/data-structures-and-algorithms-a-java-cheatsheet-de7250b90c45)
+- [Core Java Interview Questions](https://www.youtube.com/playlist?list=PLBBK9G6O8MPBosgokQfKpo8Aj6yq49whX)
 
 ### Kubernetes
 
 - [A guide to Kubernetes architecture](https://opensource.com/article/22/2/kubernetes-architecture)
+- [The Layman’s Guide to Kubernetes: Understanding Containerization and More](https://medium.com/javarevisited/the-laymans-guide-to-kubernetes-understanding-containerization-and-more-f48ef16d3f8f)
 - [Kubernetes production best-practices](https://github.com/learnk8s/kubernetes-production-best-practices)
 - [List of terminal commands for Kubernetes](https://awstip.com/list-of-terminal-commands-for-kubernetes-ffc63f0dcec0)
 - [OWASP Kubernetes Top 10](https://dzone.com/articles/owasp-kubernetes-top-10?edition=799397&utm_campaign=&utm_content=OWASP%20Kubernetes%20Top%2010&utm_medium=email&utm_source=dzone&utm_term=)
@@ -365,6 +370,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to Achieve Zero-Downtime Application with Kubernetes](https://www.qovery.com/blog/how-to-achieve-zero-downtime-application-with-kubernetes/)
 
 ### Platform Engineering
+
 - [Build a Lightweight Internal Developer Platform with Argo CD and Kubernetes Labels](https://itnext.io/build-a-lightweight-internal-developer-platform-with-argo-cd-and-kubernetes-labels-4c0e52c6c0f4)
 
 ### Behavioural
