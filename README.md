@@ -311,7 +311,6 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [Java ExecutorService](https://www.youtube.com/playlist?list=PLL8woMHwr36H_hU2ukHSsOctKU2etmUdP)
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
-- [10 Java Idioms Every Developer Should Know](https://levelup.gitconnected.com/10-idioms-to-write-better-code-in-java-a6c592948ee7)
 - [Exploring Collectors by Venkat Subramaniam](https://www.youtube.com/watch?v=pGroX3gmeP8)
 - [Exception Handling in Functional and Reactive Programming by Venkat Subramaniam](https://www.youtube.com/watch?v=S5tLVsvbHBg)
 - [Functional Programming in Modern Java Douglas Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V)
@@ -333,7 +332,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Top 30 Java-8 Interview Questions & Answers to Ace Your Java Interview](https://rathod-ajay.medium.com/top-30-java-8-interview-questions-answers-to-ace-your-java-interview-includes-coding-questions-d19fbd4510cd)
 - [Tricky Java interview questions for 7 years of Experience](https://medium.com/javarevisited/tricky-java-interview-questions-for-7-years-of-experience-c2d2bf37d746)
 - [Java 8 Interview Questions](https://www.baeldung.com/java-8-interview-questions)
-- [You don’t know Java Streams in-practice , Do You?](https://medium.com/javarevisited/you-dont-know-java-streams-in-practice-do-you-826e6aebba81)
 - [Advance Interview Questions on Streams API](https://medium.com/@vikas.taank_40391/advance-interview-questions-on-streams-api-2e3ef18d398d)
 - [Navigating Java Developer Interviews](https://medium.com/javarevisited/navigating-java-developer-interviews-core-concepts-spring-insights-design-patterns-coding-9101ef4f769c)
 - [Advance Interview Questions on Streams API](https://medium.com/@vikas.taank_40391/advance-interview-questions-on-streams-api-2e3ef18d398d)
@@ -343,6 +341,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java Concurrency 101: Understanding Multithreading Fundamentals](https://dip-mazumder.medium.com/java-concurrency-101-understanding-multithreading-fundamentals-e5ed48b04ca5)
 - [Java Advanced Concurrency Interview Questions](https://medium.com/@vikas.taank_40391/java-advanced-concurrency-interview-questions-69449655ba9b)
 - [Senior Java Lead Interview Questions](https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part1-cad6ccc115f4)
+- [Data Structures and Algorithms: A Java Cheatsheet](https://cbarkinozer.medium.com/data-structures-and-algorithms-a-java-cheatsheet-de7250b90c45)
 
 ### Kubernetes
 
