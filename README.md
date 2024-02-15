@@ -31,6 +31,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### System Design
 
+- [System Design Course](https://github.com/karanpratapsingh/system-design) - I hope this course provides a great learning experience.
 - [System Design and Architecture](https://github.com/puncsky/system-design-and-architecture) - The book System Design and Architecture has helped millions of software engineers worldwide to succeed in the Internet industry
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ByteByteGo](https://www.youtube.com/@ByteByteGo)
@@ -69,7 +70,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [System Design Concepts You NEED to Know](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag)
 - [Migrating Critical Traffic At Scale with No Downtime — Part 1](https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-1-ba1c7a1c7835)
 - [Rapid Event Notification System at Netflix](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
-- [System Design Course](https://github.com/karanpratapsingh/system-design)
 - [Behind the scenes: McDonald’s event-driven architecture](https://medium.com/mcdonalds-technical-blog/behind-the-scenes-mcdonalds-event-driven-architecture-51a6542c0d86)
 - [McDonald’s event-driven architecture: The data journey and how it works](https://medium.com/mcdonalds-technical-blog/mcdonalds-event-driven-architecture-the-data-journey-and-how-it-works-4591d108821f)
 - [Trident - Real-time Event Processing at Scale](https://engineering.grab.com/trident-real-time-event-processing-at-scale?fbclid=IwAR0OaV-cuIdsHE2_Sn_4nJ60ootRtU31yP5RQLz2_phlAlEN445-b38hvSw)
@@ -98,7 +98,6 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
 - [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
-- [24 microservices interview questions and answers to land that job](https://www.educative.io/blog/microservices-interview-questions-and-answers)
 - [50 Microservices Design and Architecture Interview Questions for Experienced Java Programmers](https://medium.com/javarevisited/50-microservices-interview-questions-for-java-programmers-70a4a68c4349)
 - [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 - [Decoupling a core service from your monolith the right way](https://betterprogramming.pub/decoupling-a-core-service-from-your-monolith-the-right-way-ffa6b8e05f5c)
@@ -108,6 +107,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Microservice decomposition Patterns](https://towardsdev.com/microservice-decomposition-patterns-41f2f24bec90)
 - [Building Resilient Microservices: Strategies for Handling Failures](https://dip-mazumder.medium.com/building-resilient-microservices-strategies-for-handling-failures-in-stock-price-notification-629a3e206f41)
 - [Java Microservices Architecture: Inter-Service Communication](https://dip-mazumder.medium.com/java-microservices-architecture-inter-service-communication-use-cases-7d1d31b2617)
+- [Resiliency in Microservices: A Guide to Circuit Breaker Pattern](https://dip-mazumder.medium.com/best-practices-for-error-handling-a-guide-to-circuit-breaker-patterns-41d45ffc02ac)
 
 ### Software Architecture
 
@@ -124,6 +124,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Practical DDD — Setting The Right Foundations](https://medium.com/augury-research-and-development/practical-ddd-part-1-setting-the-right-foundations-5b7e4b16c9e8)
 - [The Complete Guide to Event-Driven Architecture](https://solace.com/what-is-event-driven-architecture/)
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
+- [What I learned from the book Software Architecture: The Hard Parts](https://medium.com/@techworldwithmilan/what-i-learned-from-the-software-architecture-the-hard-parts-0498c9eae88e)
 
 ### API
 
@@ -367,6 +368,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [A Hands-on Kubernetes Network Troubleshooting Journey](https://itnext.io/a-hands-on-kubernetes-network-troubleshooting-journey-c2b051ce6761)
 - [Simplifying Kubernetes Logging with EFK Stack](https://medium.com/@tech_18484/simplifying-kubernetes-logging-with-efk-stack-158da47ce982)
 - [AWS VPC Design: A Practical Approach For Beginners](https://devopscube.com/aws-vpc-design/)
+- [AWS VPC — 101](https://hamzahabdulla1.medium.com/aws-vpc-101-c46dc258d27d)
 - [How to Achieve Zero-Downtime Application with Kubernetes](https://www.qovery.com/blog/how-to-achieve-zero-downtime-application-with-kubernetes/)
 
 ### Platform Engineering
