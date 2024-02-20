@@ -62,6 +62,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Polling, server sent events, and WebSockets: system design interview concepts (8 of 9)](https://igotanoffer.com/blogs/tech/polling-sse-websockets-system-design-interview?_pos=14&_sid=ec68c0f85&_ss=r)
 - [Queues and pub-sub: system design interview concepts (9 of 9)](https://igotanoffer.com/blogs/tech/queues-pubsub-system-design-interview?_pos=12&_sid=ec68c0f85&_ss=r)
 - [System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
+- [6 System Design Interview Concepts](https://levelup.gitconnected.com/6-system-design-interview-concepts-1b1882506766)
 - [A Design Analysis of Cloud-based Microservices Architecture at Netflix](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 - [A Comprehensive Guide to Distributed Caching](https://blog.devgenius.io/a-comprehensive-guide-to-distributed-caching-827f1fa5a184)
 - [System Design Interview Survival Guide (2023): Preparation Strategies and Practical Tips](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
@@ -88,6 +89,11 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How Shopify broke its Black Friday record (System Design case study)](https://learningdaily.dev/how-shopify-broke-its-black-friday-record-system-design-case-study-f45f25bbc451)
 - [How Tinder built the API Gateway ? Insightful Notes](https://medium.com/javarevisited/how-tinder-built-the-api-gateway-insightful-design-notes-829e8c7e1f45)
 - [Strategies to Share Code Between Services](https://newsletter.systemdesigncodex.com/p/strategies-to-share-code-between-services)
+- [Building “The Better Store” an agile cloud-native ecommerce system on AWS](https://medium.com/weareservian/building-the-better-store-a-global-resilient-and-agile-cloud-native-ecommerce-system-using-9e18d32cd8fa)
+- [Payment Gateway System Design — How does the Stripe work?](https://thinksoftware.medium.com/payment-gateway-system-design-how-does-the-stripe-work-917b2ba976f)
+- [Payment Microservice System Design](https://ahmedghazey.medium.com/payment-microservice-system-design-72a453cb18de)
+- [Idempotency Keys: How PayPal and Stripe Prevent Duplicate Payment](https://medium.com/@sahintalha1/the-way-psps-such-as-paypal-stripe-and-adyen-prevent-duplicate-payment-idempotency-keys-615845c185bf)
+- [Building a Digital Wallet : A Stroll through its Innards](https://medium.com/@abhishekranjandev/building-a-payment-system-like-razorpay-a-stroll-through-its-innards-part-1-635943e3990b)
 
 
 ### Low Level Design
@@ -111,7 +117,6 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Software Architecture
 
-- [Software Architecture Guide](https://martinfowler.com/architecture/)
 - [Software Architecture GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA)
 - [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
 - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)f
@@ -125,9 +130,11 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Complete Guide to Event-Driven Architecture](https://solace.com/what-is-event-driven-architecture/)
 - [Error Handling in Event-Driven Systems](https://levelup.gitconnected.com/error-handling-in-event-driven-systems-1f0a7ef2cfb7)
 - [What I learned from the book Software Architecture: The Hard Parts](https://medium.com/@techworldwithmilan/what-i-learned-from-the-software-architecture-the-hard-parts-0498c9eae88e)
+- [Driving architectural decisions with a simple decentralized framework](https://medium.com/@techworldwithmilan/driving-architectural-decisions-with-a-simple-decentralized-framework-32367f19e383)
 
 ### API
 
+- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [API Primer: Core Concepts in API Strategy and Architecture](https://medium.com/api-center/api-primer-core-concepts-in-api-strategy-and-architecture-b0378a9b2b79)
 - [REST API Naming Conventions and Best Practices](https://medium.com/@nadinCodeHat/rest-api-naming-conventions-and-best-practices-1c4e781eb6a5)
 - [Best Practices for designing REST APIs](https://medium.com/@bubu.tripathy/best-practices-for-designing-rest-apis-5b1809545e3c)
@@ -139,6 +146,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to write REST API Specification](https://medium.com/@systemdesignbychk/system-design-how-to-write-rest-api-specification-b3eb22be2c70)
 - [Webhooks Integration Best Practices](https://medium.com/@alexdorand/webhooks-integration-best-practice-bc3bb2e1a8e2)
 - [Efficient Concurrency Management: Optimistic Locking and Message Queues for Room Reservation API](https://blog.devops.dev/optimistic-locking-and-message-queues-solving-concurrency-challenges-in-room-reservation-ca0e661b63fd)
+- [REST API Design Best Practices](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
 
 ### Data Structures and Algorithms
 
@@ -186,6 +194,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [guru-design-patterns](https://refactoring.guru/design-patterns) - Guru makes it easy for you to discover everything you need to know about design patterns.
 - [SourceMaking-design-patterns](https://sourcemaking.com/) - I'm SourceMaking. I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns.
+- [How to select a Design Pattern?](https://medium.com/@techworldwithmilan/how-to-select-a-design-pattern-567181b90e8c)
 
 ### Object Oriented Design
 
@@ -273,9 +282,14 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to Present Your Project in a Software Engineer Job Interview](https://towardsdatascience.com/how-to-present-your-project-in-a-software-engineer-job-interview-d4d3fc184308)
 - [5 ways to review code without wasting everyone’s time](https://medium.com/volvo-cars-engineering/5-ways-to-review-code-without-wasting-everyones-time-aedeecc51094)
 - [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [Product engineers](https://sherifmansour.medium.com/product-engineers-f424da766871)
 - [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
 - [Post mortem on Linear incident from Jan 24th, 2024](https://linear.app/blog/linear-incident-on-jan-24th-2024)
 - [Do you know RSA and AES encryption well enough?](https://dasvarsha.medium.com/appsec-a-developers-handbook-to-mastering-rsa-and-aes-encryption-9c0e6465452f)
+- [Building High-Performing Teams](https://medium.com/@techworldwithmilan/building-high-performing-teams-c66f59db97bb)
+- [How To Deal With Technical Debt](https://medium.com/@techworldwithmilan/how-to-deal-with-technical-debt-b0065c1a794d)
+- [Writing an engineering strategy](https://lethain.com/eng-strategies/)
+- [Writing an engineering strategy](https://lethain.com/setting-engineering-org-values/)
 
 ### Spring
 
@@ -391,6 +405,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How to Speak](https://www.youtube.com/watch?v=Unzc731iCUY)
 - [Awesome Behavioral Interviews](https://github.com/ashishps1/awesome-behavioral-interviews)
 - [How To Respond To Feedback You Disagree With](https://developingskills.substack.com/p/how-to-respond-to-feedback-you-disagree)
+- [How do you give direct feedback but still care about your people?](https://medium.com/@techworldwithmilan/how-do-you-give-direct-feedback-but-still-care-about-your-people-f119e8a8f761)
 
 ### Awesome
 
