@@ -189,6 +189,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Understanding Consistency](https://medium.com/nerd-for-tech/understanding-consistency-37156d9f4608)
 - [How to use Indexing Effectively](https://medium.com/nerd-for-tech/how-to-use-indexing-effectively-c69d97f0f983)
 - [Database Optimization: Troubleshoot Slow Database Query](https://dip-mazumder.medium.com/database-optimization-troubleshoot-slow-database-query-b66f3dbea42f)
+- [Mastering the Art of SQL Interviews: Unlocking the Solutions to Common and Complex Queries](https://medium.com/javarevisited/mastering-the-art-of-sql-interviews-unlocking-the-solutions-to-common-and-complex-queries-302c2aba9620)
+- [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)
+- [SQL Mastery for Interviews](https://github.com/Imran53/SQL-Mastery-for-Interviews)
 
 ### Design Patterns
 
