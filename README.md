@@ -86,6 +86,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Payment Microservice System Design](https://ahmedghazey.medium.com/payment-microservice-system-design-72a453cb18de)
 - [Idempotency Keys: How PayPal and Stripe Prevent Duplicate Payment](https://medium.com/@sahintalha1/the-way-psps-such-as-paypal-stripe-and-adyen-prevent-duplicate-payment-idempotency-keys-615845c185bf)
 - [Building a Digital Wallet : A Stroll through its Innards](https://medium.com/@abhishekranjandev/building-a-payment-system-like-razorpay-a-stroll-through-its-innards-part-1-635943e3990b)
+- [System Design Interview: Notification Servicev](https://medium.com/double-pointer/system-design-interview-notification-service-86cb5c266218)
 
 
 ### Low Level Design
@@ -356,6 +357,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Senior Java Lead Interview Questions](https://medium.com/@vikas.taank_40391/senior-java-lead-interview-questions-part1-cad6ccc115f4)
 - [Data Structures and Algorithms: A Java Cheatsheet](https://cbarkinozer.medium.com/data-structures-and-algorithms-a-java-cheatsheet-de7250b90c45)
 - [Core Java Interview Questions](https://www.youtube.com/playlist?list=PLBBK9G6O8MPBosgokQfKpo8Aj6yq49whX)
+- [The Race Condition I Encountered in My Work](https://medium.com/geekculture/the-race-condition-i-encountered-in-my-work-6fc47ac637e1)
+- [Cracking the Multithreading Interviews in Java](https://medium.com/@abhishekranjandev/cracking-the-multithreading-interviews-in-java-a-comprehensive-guide-9ad7fd3a15ba)
+- [Understanding Java’s Garbage Collection](https://medium.com/@AlexanderObregon/understanding-javas-garbage-collection-bc141a2ef31f)
 
 ### Kubernetes
 
