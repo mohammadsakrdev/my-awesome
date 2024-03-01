@@ -270,7 +270,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Zalando: How to pass the interview](https://clevercoder.net/2018/04/14/zalando-how-to-pass-the-interview/)
 - [Zalando – Interview Questions](https://codedaily.in/zalando-interview-questions/)
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-- [Career Growth: What Paths After Senior Engineer](https://codecapsule.com/2021/06/15/career-growth-what-paths-after-senior-engineer/)
 - [Let’s Clean that Code](https://blog.knoldus.com/keep-your-code-clean/)
 - [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
 - [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
@@ -285,7 +284,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Building High-Performing Teams](https://medium.com/@techworldwithmilan/building-high-performing-teams-c66f59db97bb)
 - [How To Deal With Technical Debt](https://medium.com/@techworldwithmilan/how-to-deal-with-technical-debt-b0065c1a794d)
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/)
-- [Writing an engineering strategy](https://lethain.com/setting-engineering-org-values/)
+- [Setting engineering org values](https://lethain.com/setting-engineering-org-values/)
 
 ### Spring
 
@@ -320,6 +319,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [What is N+1 query generate problem in Spring Data Jpa and how to solve it](https://medium.com/@kiarash.shamaii/what-is-n-1-query-generate-problem-in-spring-data-jpa-and-how-to-solve-it-2f3b9f1a7a0b)
 - [Optimizing Queries with @Query Annotation in Spring Data JPA](https://medium.com/@AlexanderObregon/optimizing-queries-with-query-annotation-in-spring-data-jpa-fe213c8a60a)
 - [Understanding Spring Security Authentication Flow](https://medium.com/@aprayush20/understanding-spring-security-authentication-flow-f9bb545bd77)
+- [A Tour of Netty](https://medium.com/geekculture/a-tour-of-netty-5020ecee5494)
+- [Visiting Reactor Netty](https://medium.com/geekculture/visiting-reactor-netty-c8c0449ee0)
+- [Spring Data JPA, Spring Data R2DBC & Hibernate Reactive](https://medium.com/geekculture/spring-data-jpa-spring-data-r2dbc-hibernate-reactive-bcc43e321566)
+- [Reactive Programming (Reactor)- Part 1](https://medium.com/swlh/reactive-programming-reactor-core-part1-1053fe3ae1a0)
+- [Spring Data R2DBC - Transactions](https://medium.com/geekculture/spring-data-r2dbc-transactions-cd5e064d59a8)
+- [An In-Depth Look at Spring WebFlux](https://medium.com/geekculture/an-in-depth-look-at-spring-webflux-4bcb23759d92)
 
 ### Java
 
