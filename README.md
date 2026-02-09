@@ -64,6 +64,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Availability patterns
 - [Building Resilient Microservices: Strategies for Handling Failures](https://dip-mazumder.medium.com/building-resilient-microservices-strategies-for-handling-failures-in-stock-price-notification-629a3e206f41)
+- [Retries strategies in distributed systems](https://www.geeksforgeeks.org/system-design/retries-strategies-in-distributed-systems/)
 - [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems)
 
 ### Domain name system
@@ -84,6 +85,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 #### Microservices
 - [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
+- [What is a Modular Monolith?](https://www.milanjovanovic.tech/blog/what-is-a-modular-monolith)
 - [Principles Of Microservices by Sam Newman](https://www.youtube.com/watch?v=PFQnNFe27kU)
 - [Best Practices for Building a Microservice Architecture](https://www.vinaysahni.com/best-practices-for-building-a-microservice-architecture)
 - [Microservice Architecture and its 10 Most Important Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
