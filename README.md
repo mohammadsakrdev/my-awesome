@@ -50,7 +50,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [crack-the-system-design-interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 - [Caching Strategies and How to Choose the Right One](https://codeahoy.com/2017/08/11/caching-strategies-and-how-to-choose-the-right-one/)
 - [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
-- [System design interview prep (relax, start here)](https://igotanoffer.com/blogs/tech/system-design-interview-prep)
 - [How to answer system design interview questions](https://igotanoffer.com/blogs/tech/system-design-interview-questions?_pos=1&_sid=ec68c0f85&_ss=r)
 - [Network protocols and proxies: system design interview concepts (1 of 9)](https://igotanoffer.com/blogs/tech/network-protocols-proxies-system-design-interview?_pos=13&_sid=ec68c0f85&_ss=r)
 - [System Design Blueprint: The Ultimate Guide](https://blog.devgenius.io/system-design-blueprint-the-ultimate-guide-e27b914bf8f1)
@@ -115,7 +114,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)f
 - [CQRS: What? Why? How?](https://sderosiaux.medium.com/cqrs-what-why-how-945543482313)
 - [Software Architecture Concepts](https://blog.cmpsamurai.com/series/software-architecture)
-- [learning-ddd videos](https://virtualddd.com/learning-ddd/videos/)
 - [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
 - [10 Tips for Building Resilient Payment Systems](https://shopify.engineering/building-resilient-payment-systems)
 - [Hexagonal Architectures — the sequel](https://medium.com/mcdonalds-technical-blog/hexagonal-architectures-the-sequel-073c9ee79385)
@@ -231,7 +229,6 @@ A curated list of awesome links, frameworks, libraries and software.
 
 - [Introduction to Message Brokers: Part 1: Apache Kafka vs RabbitMQ](https://hackernoon.com/introduction-to-message-brokers-part-1-apache-kafka-vs-rabbitmq-8fd67bf68566)
 - [Message Queues & You – 12 Reasons to Use Message Queuing](https://stackify.com/message-queues-12-reasons/)
-- [Top Frequently asked Rabbitmq Interview Questions](https://www.techgeeknext.com/java/rabbitmq-interview-questions)
 - [Understanding message queuing systems using RabbitMQ](https://blog.logrocket.com/understanding-message-queuing-systems-using-rabbitmq/)
 - [What is Apache Kafka, and what are Kafka use cases?](https://scalac.io/blog/what-is-apache-kafka-and-what-are-kafka-use-cases/)
 - [What are Message Queues and why they are widely used in distributed systems](https://levelup.gitconnected.com/what-are-message-queues-and-why-they-are-widely-used-in-distributed-systems-cf9735e9afd7)
@@ -270,7 +267,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Zalando: How to pass the interview](https://clevercoder.net/2018/04/14/zalando-how-to-pass-the-interview/)
 - [Zalando – Interview Questions](https://codedaily.in/zalando-interview-questions/)
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-- [Let’s Clean that Code](https://blog.knoldus.com/keep-your-code-clean/)
 - [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
 - [The Complex Data Models Behind Shopify's Tax Insights Feature](https://shopify.engineering/complex-data-models-behind-shopify-tax-insights)
 - [System Observability in a nutshell](https://towardsdev.com/system-observability-in-a-nutshell-72018e596ec5)
@@ -333,7 +329,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Exploring Collectors by Venkat Subramaniam](https://www.youtube.com/watch?v=pGroX3gmeP8)
 - [Exception Handling in Functional and Reactive Programming by Venkat Subramaniam](https://www.youtube.com/watch?v=S5tLVsvbHBg)
 - [Functional Programming in Modern Java Douglas Schmidt](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp57EQIDnyQ3F-8EqW4ejz8V)
-- [JAVA 8 STREAM API](https://youlearncode.com/java-8-stream-api/)
 - [A Complete Guide on ExecutorService In Java](https://medium.com/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b)
 - [Generics in Java](https://salithachathuranga94.medium.com/generics-in-java-3c791555e924)
 - [CompletableFuture- Advance Deep Dive](https://medium.com/@vikas.taank_40391/completablefuture-advance-deep-dive-369664e8d218)
@@ -427,7 +422,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
 - [Awesome Argo](https://github.com/akuity/awesome-argo)
 - [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
-- [Pragmatic Engineer](https://www.youtube.com/@mrgergelyorosz/videos)
 - [High-Performance Programming](https://www.youtube.com/@HighPerformanceProgramming/playlists)
 - [Beyond the basics](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
@@ -471,5 +465,4 @@ A curated list of awesome links, frameworks, libraries and software.
 - [podinfo](https://github.com/stefanprodan/podinfo) - Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 - [Introducing basic CQRS by refactoring a Go project](https://threedots.tech/post/basic-cqrs-in-go/)
 - [Finding The Best Go Project Structure — Part 1](https://itnext.io/finding-the-best-go-project-structure-part-1-5290bc1d869d)
-- [Go Concurrency Essentials](https://www.adrianpk.com/go-concurrency-essentials/)
 - [Getting Started with OpenTelemetry in distributed Go Microservices](https://medium.com/wesovilabs/getting-started-with-opentelemetry-in-distributed-go-microservices-192e7e21bd7c)
