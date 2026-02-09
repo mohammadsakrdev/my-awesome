@@ -353,7 +353,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java 8 Interview Questions](https://www.baeldung.com/java-8-interview-questions)
 - [Advance Interview Questions on Streams API](https://medium.com/@vikas.taank_40391/advance-interview-questions-on-streams-api-2e3ef18d398d)
 - [Navigating Java Developer Interviews](https://medium.com/javarevisited/navigating-java-developer-interviews-core-concepts-spring-insights-design-patterns-coding-9101ef4f769c)
-- [Advance Interview Questions on Streams API](https://medium.com/@vikas.taank_40391/advance-interview-questions-on-streams-api-2e3ef18d398d)
 - [Reactive Programming in Java](https://medium.com/sysco-labs/reactive-programming-in-java-8d1f5c648012)
 - [Managing Back Pressure in reactive Streams](https://medium.com/@vikas.taank_40391/managing-back-pressure-in-reactive-streams-c64f91a10adf)
 - [Java Garbage Collection 101— Java 8 Changes, Interview questions, Commands & Algorithms](https://medium.com/javarevisited/java-garbage-collection-101-java-8-changes-interview-questions-commands-algorithms-212ee5349a4c)
