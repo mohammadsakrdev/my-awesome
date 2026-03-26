@@ -101,6 +101,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Database Optimization: Troubleshoot Slow Database Query](https://dip-mazumder.medium.com/database-optimization-troubleshoot-slow-database-query-b66f3dbea42f)
 - [Cracking the SQL Interview](https://github.com/xoraus/CrackingTheSQLInterview)
 - [SQL Mastery for Interviews](https://github.com/Imran53/SQL-Mastery-for-Interviews)
+- [grokking-relational-database-design (Neo-Hao)](https://github.com/Neo-Hao/grokking-relational-database-design)
+- [grokking-relational-database-design (StructuredCS)](https://github.com/StructuredCS/grokking-relational-database-design)
 
 #### Relational database management system (RDBMS)
 - [A Deep Dive into Database Concurrency Control](https://www.alibabacloud.com/blog/a-deep-dive-into-database-concurrency-control_596779)
