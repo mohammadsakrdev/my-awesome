@@ -41,6 +41,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Platform Engineering](#platform-engineering)
 - [Behavioural](#behavioural)
 - [Awesome](#awesome)
+- [Concurrency](#concurrency)
 - [Remote First](#remote-first)
 - [To watch](#to-watch)
 - [Resume](#resume)
@@ -151,6 +152,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [What is OIDC and where and why it is used](https://medium.com/@martin.hodges/an-is-oidc-and-where-and-why-it-is-used-e03bcbcf1703)
 
 ---
+
+### Concurrency
+- [Rock the JVM: Concurrency](https://rockthejvm.com/tags/concurrency)
+- [Introduction to Concurrency](https://www.youtube.com/watch?v=d8rmosXttTE)
+- [Kotlin Coroutines Best Practices](https://kt.academy/article/cc-best-practices)
+- [Learn-Kotlin-Coroutines](https://github.com/amitshekhariitbhu/Learn-Kotlin-Coroutines)
 
 ### Low Level Design
 - [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
