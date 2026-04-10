@@ -34,14 +34,14 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Distributed Systems](#distributed-systems)
 - [ElasticSearch](#elasticsearch)
 - [Problem-Solving](#problem-solving)
-- [Common](#common)
+- [Common Interview Questions](#common-interview-questions)
 - [Spring](#spring)
 - [Java](#java)
 - [Kubernetes](#kubernetes)
 - [Platform Engineering](#platform-engineering)
 - [Behavioural](#behavioural)
 - [Awesome](#awesome)
-- [Concurrency](#concurrency)
+- [Concurrency & Parallelism](#concurrency--parallelism)
 - [Remote First](#remote-first)
 - [To watch](#to-watch)
 - [Resume](#resume)
@@ -266,6 +266,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Spring Data JPA, Spring Data R2DBC & Hibernate Reactive](https://medium.com/geekculture/spring-data-jpa-spring-data-r2dbc-hibernate-reactive-bcc43e321566)
 - [Optimistic locking with JPA and Hibernate](https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/)
 - [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
+
+### Concurrency & Parallelism
+- [When do you use threads?](https://www.youtube.com/watch?v=-kUgcdJ84Dg)
+
+### Common Interview Questions
+- [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
 
 ### Java
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
