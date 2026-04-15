@@ -53,6 +53,8 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Latency vs throughput
 - [Latency numbers every programmer should know](https://github.com/sirupsen/napkin-math)
+- [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
+- [Back-of-the-envelope Estimation](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
 
 ### Availability vs consistency
 - [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-EG/blog/money-scale-strong-data/)
