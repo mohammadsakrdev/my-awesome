@@ -50,6 +50,7 @@ A curated list of awesome links, frameworks, libraries and software.
 ### Performance vs scalability
 - [How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
 - [High-Performance Programming](https://www.youtube.com/@HighPerformanceProgramming/playlists)
+- [Behind AWS S3's Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
 
 ### Latency vs throughput
 - [Latency numbers every programmer should know](https://github.com/sirupsen/napkin-math)
@@ -327,6 +328,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [awesome-java](https://github.com/akullpp/awesome-java)
 - [interviews](https://github.com/kdn251/interviews)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd)
 - [15 Best Data Structure, Algorithms, and Programming Courses to Crack Coding Interviews](https://medium.com/javarevisited/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 - [Circleci Engineering](https://circleci.com/blog/tag/engineering/)
