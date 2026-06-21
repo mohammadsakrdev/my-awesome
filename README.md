@@ -34,14 +34,14 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Distributed Systems](#distributed-systems)
 - [ElasticSearch](#elasticsearch)
 - [Problem-Solving](#problem-solving)
-- [Common](#common)
+- [Common Interview Questions](#common-interview-questions)
 - [Spring](#spring)
 - [Java](#java)
 - [Kubernetes](#kubernetes)
 - [Platform Engineering](#platform-engineering)
 - [Behavioural](#behavioural)
 - [Awesome](#awesome)
-- [Concurrency](#concurrency)
+- [Concurrency & Parallelism](#concurrency--parallelism)
 - [Remote First](#remote-first)
 - [To watch](#to-watch)
 - [Resume](#resume)
@@ -54,6 +54,8 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Latency vs throughput
 - [Latency numbers every programmer should know](https://github.com/sirupsen/napkin-math)
+- [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
+- [Back-of-the-envelope Estimation](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
 
 ### Availability vs consistency
 - [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-EG/blog/money-scale-strong-data/)
@@ -224,6 +226,8 @@ A curated list of awesome links, frameworks, libraries and software.
 ### Distributed Systems
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Designing a Digital Wallet System: Balance Management, Top-Up & P2P Transfers](https://codefarm0.medium.com/designing-a-digital-wallet-system-balance-management-top-up-p2p-transfers-eed46f757dc7)
+- [Designing a Payment Gateway System: Multi-Provider Aggregation, Smart Routing & Merchant Onboarding](https://codefarm0.medium.com/designing-a-payment-gateway-system-multi-provider-aggregation-smart-routing-merchant-onboarding-80f634cb0534)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
@@ -267,6 +271,13 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Spring Data JPA, Spring Data R2DBC & Hibernate Reactive](https://medium.com/geekculture/spring-data-jpa-spring-data-r2dbc-hibernate-reactive-bcc43e321566)
 - [Optimistic locking with JPA and Hibernate](https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/)
 - [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
+
+### Concurrency & Parallelism
+- [When do you use threads?](https://www.youtube.com/watch?v=-kUgcdJ84Dg)
+- [Building a Ticketing System: Concurrency, Locks, and Race Conditions](https://codefarm0.medium.com/building-a-ticketing-system-concurrency-locks-and-race-conditions-182e0932d962)
+
+### Common Interview Questions
+- [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
 
 ### Java
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
