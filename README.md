@@ -65,6 +65,7 @@ A curated list of awesome links, frameworks, libraries and software.
 
 ### Consistency patterns
 - [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+- [Swiggy Shows Wrong Rider Location: Real-Time GPS Tracking and Eventual Consistency](https://medium.com/@codefarm0/swiggy-shows-wrong-rider-location-system-design-deep-dive-on-real-time-gps-tracking-and-eventual-b49e5f18fccd)
 
 ### Availability patterns
 - [Building Resilient Microservices: Strategies for Handling Failures](https://dip-mazumder.medium.com/building-resilient-microservices-strategies-for-handling-failures-in-stock-price-notification-629a3e206f41)
@@ -193,6 +194,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Practical DDD — Setting The Right Foundations](https://medium.com/augury-research-and-development/practical-ddd-part-1-setting-the-right-foundations-5b7e4b16c9e8)
 - [What I learned from the book Software Architecture: The Hard Parts](https://medium.com/@techworldwithmilan/what-i-learned-from-the-software-architecture-the-hard-parts-0498c9eae88e)
 - [Driving architectural decisions with a simple decentralized framework](https://medium.com/@techworldwithmilan/driving-architectural-decisions-with-a-simple-decentralized-framework-32367f19e383)
+- [Enterprise Integration Architecture Patterns](https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a)
 
 ### API
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
@@ -244,6 +246,18 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Complete FAANG Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Recursion from the ground up: when to use it, how to structure recursive functions, and how to trace any recursive code](https://lnkd.in/eB5UfikG)
+- [Time complexity: how to measure a program's efficiency, plus Big-O and amortized analysis](https://lnkd.in/eak_YBEf)
+- [Arrays: everything about the array, including multidimensional and dynamic arrays](https://lnkd.in/ekJMPDjy)
+- [Linked lists: from traversal to reversal, the techniques behind common interview problems](https://lnkd.in/eYruabNt)
+- [Hash tables: what they are and how they work under the hood](https://lnkd.in/euhizfuh)
+- [Binary search trees: what they are and the most common implementations](https://lnkd.in/eZE7Fm45)
+- [Priority queues: how to implement one, where they're used, and the heapsort algorithm](https://lnkd.in/eztWMfwN)
+- [Tries: how to store and search strings efficiently](https://lnkd.in/edNtV2yK)
+- [Graphs: a beginner-friendly intro to graphs and how to represent them](https://lnkd.in/eUwk5Y9v)
+- [Backtracking: a step-by-step way to solve almost any search problem](https://lnkd.in/edwbW5uv)
+- [Two pointers: solve array and string problems efficiently, with code templates](https://lnkd.in/eaxNapz4)
+- [Sliding window: one technique that unlocks a whole class of interview questions](https://lnkd.in/eK3hbQcv)
 
 ### Common
 - [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
