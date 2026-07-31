@@ -46,6 +46,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [To watch](#to-watch)
 - [Resume](#resume)
 - [Go](#go)
+- [AI](#ai)
 
 ### Performance vs scalability
 - [How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
@@ -387,3 +388,6 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Introducing basic CQRS by refactoring a Go project](https://threedots.tech/post/basic-cqrs-in-go/)
 - [Finding The Best Go Project Structure — Part 1](https://itnext.io/finding-the-best-go-project-structure-part-1-5290bc1d869d)
 - [Getting Started with OpenTelemetry in distributed Go Microservices](https://medium.com/wesovilabs/getting-started-with-opentelemetry-in-distributed-go-microservices-192e7e21bd7c)
+
+### AI
+- [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
