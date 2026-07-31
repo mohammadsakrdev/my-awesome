@@ -27,56 +27,35 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Security](#security)
 
 ## Additional Topics
-- [Resume](#resume)
-- [Remote First](#remote-first)
-- [Behavioural](#behavioural)
-- [Common](#common)
-- [Common Interview Questions](#common-interview-questions)
-- [Problem-Solving](#problem-solving)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Low Level Design](#low-level-design)
-- [Object Oriented Design](#object-oriented-design)
-- [Design Patterns](#design-patterns)
-- [Concurrency](#concurrency)
-- [Concurrency & Parallelism](#concurrency--parallelism)
-- [Software Architecture](#software-architecture)
-- [Distributed Systems](#distributed-systems)
-- [API](#api)
-- [Java](#java)
-- [Spring](#spring)
-- [Go](#go)
-- [Kubernetes](#kubernetes)
-- [Platform Engineering](#platform-engineering)
-- [ElasticSearch](#elasticsearch)
-- [AI](#ai)
-- [Git](#git)
-- [Awesome](#awesome)
-- [To watch](#to-watch)
-- [Resume](#resume)
-- [Go](#go)
+- [Stage 1: Application & Resume](#stage-1-application--resume)
+    - [Resume](#resume)
+    - [Remote First](#remote-first)
+- [Stage 2: Behavioral & Soft Skills](#stage-2-behavioral--soft-skills)
+    - [Behavioural](#behavioural)
+    - [Common (Career & Growth)](#common-career--growth)
+    - [Common Interview Questions](#common-interview-questions)
+- [Stage 3: Coding & Technical Fundamentals](#stage-3-coding--technical-fundamentals)
+    - [Problem-Solving](#problem-solving)
+    - [Data Structures and Algorithms](#data-structures-and-algorithms)
+    - [Object Oriented & Low Level Design](#object-oriented--low-level-design)
+    - [Design Patterns](#design-patterns)
+    - [Concurrency & Parallelism](#concurrency--parallelism)
+    - [Language Specific (Java, Go, etc.)](#language-specific)
+- [Stage 4: System Design & Infrastructure](#stage-4-system-design--infrastructure)
+    - [Software Architecture](#software-architecture)
+    - [Distributed Systems](#distributed-systems)
+    - [API & Security](#api--security)
+    - [Infrastructure & DevOps (K8s, Git, etc.)](#infrastructure--devops)
+    - [AI & Search (ElasticSearch)](#ai--search)
+    - [To watch](#to-watch)
 
-### Performance vs scalability
-- [How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
-- [High-Performance Programming](https://www.youtube.com/@HighPerformanceProgramming/playlists)
-- [Behind AWS S3's Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
+---
 
-### Latency vs throughput
-- [Latency numbers every programmer should know](https://github.com/sirupsen/napkin-math)
-- [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
-- [Back-of-the-envelope Estimation](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
-
-### Availability vs consistency
-- [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-EG/blog/money-scale-strong-data/)
-
-#### CAP theorem
-- [System design fundamentals: What is the CAP theorem?](https://www.educative.io/blog/what-is-cap-theorem)
+## Stage 1: Application & Resume
 
 ### Resume
 - [Want to work @FAANG companies? Start with a Great Resume](https://typefully.com/ywkem/vm1T86a)
 - [10 common mistakes in writing resume](https://www.aabouzaid.com/2023/05/10-common-resume-cv-mistakes.html?m=1)
-### Consistency patterns
-- [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
-- [Swiggy Shows Wrong Rider Location: Real-Time GPS Tracking and Eventual Consistency](https://medium.com/@codefarm0/swiggy-shows-wrong-rider-location-system-design-deep-dive-on-real-time-gps-tracking-and-eventual-b49e5f18fccd)
 
 ### Remote First
 - [Careem](https://www.careem.com/)
@@ -89,6 +68,10 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 - [Get.it](https://www.get.it/)
 - [Sunsoftonline](https://www.sunsoftonline.com/)
+
+---
+
+## Stage 2: Behavioral & Soft Skills
 
 ### Behavioural
 - [7 BEST Behavioural Interview Questions & Answers!](https://www.youtube.com/watch?v=ZLtO_7LjzVg&t=685s)
@@ -108,7 +91,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How To Respond To Feedback You Disagree With](https://developingskills.substack.com/p/how-to-respond-to-feedback-you-disagree)
 - [How do you give direct feedback but still care about your people?](https://medium.com/@techworldwithmilan/how-do-you-give-direct-feedback-but-still-care-about-your-people-f119e8a8f761)
 
-### Common
+### Common (Career & Growth)
 - [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
 - [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/?utm_source=programmingdigest&utm_medium&utm_campaign=1629&fbclid=IwAR1Imzensg3WfXo2eQPFqJwaIPxMCZHBr6ueDDHr_jMILHVs6HvEe-UI25w&mibextid=S66gvF)
 - [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
@@ -120,78 +103,67 @@ A curated list of awesome links, frameworks, libraries and software.
 - [How To Deal With Technical Debt](https://medium.com/@techworldwithmilan/how-to-deal-with-technical-debt-b0065c1a794d)
 - [Writing an engineering strategy](https://lethain.com/eng-strategies/)
 - [5 ways to review code without wasting everyone’s time](https://medium.com/volvo-cars-engineering/5-ways-to-review-code-without-wasting-everyones-time-aedeecc51094)
+- [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes?fbclid=IwAR39TJejBvxXglZU9Y_UYcLqyknA4zHtnoNoYVivJpyIxWPaBUl_Mwixnhg)
+- [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
 
 ### Common Interview Questions
 - [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
+
+---
+
+## Stage 3: Coding & Technical Fundamentals
 
 ### Problem-Solving
 - [Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)
 - [The Complete FAANG Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
 - [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [interviews](https://github.com/kdn251/interviews)
+- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
+- [Recursion from the ground up](https://lnkd.in/eB5UfikG)
+- [Two pointers template](https://lnkd.in/eaxNapz4)
+- [Sliding window technique](https://lnkd.in/eK3hbQcv)
+- [Backtracking step-by-step](https://lnkd.in/edwbW5uv)
 
 ### Data Structures and Algorithms
 - [Abdul Bari](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 - [Data Structures & Algorithms I Used Working at Tech Companies](https://blog.pragmaticengineer.com/data-structures-and-algorithms-i-actually-used-day-to-day/)
+- [15 Best Data Structure, Algorithms, and Programming Courses](https://medium.com/javarevisited/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+- [Time complexity: Big-O and amortized analysis](https://lnkd.in/eak_YBEf)
+- [Arrays: multidimensional and dynamic](https://lnkd.in/ekJMPDjy)
+- [Linked lists: traversal to reversal](https://lnkd.in/eYruabNt)
+- [Hash tables: under the hood](https://lnkd.in/euhizfuh)
+- [Binary search trees implementations](https://lnkd.in/eZE7Fm45)
+- [Priority queues and heapsort](https://lnkd.in/eztWMfwN)
+- [Tries: efficient search](https://lnkd.in/edNtV2yK)
+- [Graphs representation intro](https://lnkd.in/eUwk5Y9v)
+- [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)
 
-### Low Level Design
+### Object Oriented & Low Level Design
 - [awesome-low-level-design](https://github.com/ashishps1/awesome-low-level-design)
-
-### Object Oriented Design
 - [A Solid Guide to SOLID Principles](https://www.baeldung.com/solid-principles)
 - [Object-Oriented Programming (OOP) in JAVA](https://vaheaslanyan7.medium.com/object-oriented-programming-oop-in-java-00ff487c98c9)
-- [Preparing for a Java Interview? Here are the Top 19 OOPS Questions That You Need to Know](https://medium.com/javarevisited/preparing-for-a-java-interview-here-are-the-top-19-oops-questions-that-you-need-to-know-6cc6dde3d4c3)
-- [Top 14 Interview questions On Abstraction principle to ace your next Object-Oriented Programming Interview](https://medium.com/javarevisited/master-the-art-of-object-oriented-programming-expert-recommended-abstraction-questions-for-java-d82f8dfc3ff4)
+- [Top 19 OOPS Questions for Java Interview](https://medium.com/javarevisited/preparing-for-a-java-interview-here-are-the-top-19-oops-questions-that-you-need-to-know-6cc6dde3d4c3)
+- [Top 14 Interview questions On Abstraction](https://medium.com/javarevisited/master-the-art-of-object-oriented-programming-expert-recommended-abstraction-questions-for-java-d82f8dfc3ff4)
 
 ### Design Patterns
 - [guru-design-patterns](https://refactoring.guru/design-patterns)
 - [SourceMaking-design-patterns](https://sourcemaking.com/)
 - [How to select a Design Pattern?](https://medium.com/@techworldwithmilan/how-to-select-a-design-pattern-567181b90e8c)
 
-### Concurrency
+### Concurrency & Parallelism
 - [Rock the JVM: Concurrency](https://rockthejvm.com/tags/concurrency)
 - [Introduction to Concurrency](https://www.youtube.com/watch?v=d8rmosXttTE)
 - [Kotlin Coroutines Best Practices](https://kt.academy/article/cc-best-practices)
 - [Learn-Kotlin-Coroutines](https://github.com/amitshekhariitbhu/Learn-Kotlin-Coroutines)
-
-### Concurrency & Parallelism
 - [When do you use threads?](https://www.youtube.com/watch?v=-kUgcdJ84Dg)
 - [Building a Ticketing System: Concurrency, Locks, and Race Conditions](https://codefarm0.medium.com/building-a-ticketing-system-concurrency-locks-and-race-conditions-182e0932d962)
 
-### Software Architecture
-- [System Design Course](https://github.com/karanpratapsingh/system-design)
-- [System Design and Architecture](https://github.com/puncsky/system-design-and-architecture)
-- [Software Architecture GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJELLTYwXZHcimWAwTUaWGA)
-- [Introduction to architecting systems for scale](https://lethain.com/introduction-to-architecting-systems-for-scale/)
-- [Web Architecture 101](https://medium.com/storyblocks-engineering/web-architecture-101-a3224e126947)
-- [CQRS: What? Why? How?](https://sderosiaux.medium.com/cqrs-what-why-how-945543482313)
-- [Software Architecture Concepts](https://blog.cmpsamurai.com/series/software-architecture)
-- [Domain Driven Design and Development In Practice](https://www.infoq.com/articles/ddd-in-practice/)
-- [Hexagonal Architectures — the sequel](https://medium.com/mcdonalds-technical-blog/hexagonal-architectures-the-sequel-073c9ee79385)
-- [Practical DDD — Setting The Right Foundations](https://medium.com/augury-research-and-development/practical-ddd-part-1-setting-the-right-foundations-5b7e4b16c9e8)
-- [What I learned from the book Software Architecture: The Hard Parts](https://medium.com/@techworldwithmilan/what-i-learned-from-the-software-architecture-the-hard-parts-0498c9eae88e)
-- [Driving architectural decisions with a simple decentralized framework](https://medium.com/@techworldwithmilan/driving-architectural-decisions-with-a-simple-decentralized-framework-32367f19e383)
-- [Enterprise Integration Architecture Patterns](https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a)
-
-### Distributed Systems
-- [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
-- [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
-- [Designing a Digital Wallet System: Balance Management, Top-Up & P2P Transfers](https://codefarm0.medium.com/designing-a-digital-wallet-system-balance-management-top-up-p2p-transfers-eed46f757dc7)
-- [Designing a Payment Gateway System: Multi-Provider Aggregation, Smart Routing & Merchant Onboarding](https://codefarm0.medium.com/designing-a-payment-gateway-system-multi-provider-aggregation-smart-routing-merchant-onboarding-80f634cb0534)
-- [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
-- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
-- [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
-- [Handling time zones in distributed systems](https://blogs.oracle.com/javamagazine/post/java-timezone-part-1)
-
-### API
-- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-- [How to design an efficient Idempotency API](https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb)
-- [API Best Practices: Webhooks, Deprecation, and Design](https://zapier.com/engineering/api-best-practices/)
-- [How We Design Our APIs at Slack](https://slack.engineering/how-we-design-our-apis-at-slack/)
-- [REST API Design Best Practices](https://medium.com/@techworldwithmilan/rest-api-design-best-practices-2eb5e749d428)
-- [Efficient Concurrency Management: Optimistic Locking and Message Queues for Room Reservation API](https://blog.devops.dev/optimistic-locking-and-message-queues-solving-concurrency-challenges-in-room-reservation-ca0e661b63fd)
-
-### Java
+### Language Specific
+#### Java
+- [awesome-java](https://github.com/akullpp/awesome-java)
 - [Java Practices](http://www.javapractices.com/home/HomeAction.do)
 - [A Complete Guide on ExecutorService In Java](https://medium.com/javarevisited/a-complete-guide-on-executorservice-in-java-67528f1a535b)
 - [Generics in Java](https://salithachathuranga94.medium.com/generics-in-java-3c791555e924)
@@ -199,130 +171,75 @@ A curated list of awesome links, frameworks, libraries and software.
 - [The Power of Java Stream API](https://medium.com/@AlexanderObregon/the-power-of-java-stream-api-d7c0ab7e4c5a)
 - [JVM internals for the Java job interview](https://medium.com/@dalibor.plavcic/jvm-internals-for-the-java-job-interview-83257d038134)
 - [Java21 Features you must know](https://medium.com/@vikas.taank_40391/java21-features-you-must-know-40f57035e858)
-- [A Comprehensive Journey from Java 8 to Java 21 with Code Examples of Essential API Enhancements](https://rathod-ajay.medium.com/a-comprehensive-journey-from-java-8-to-java-21-with-code-examples-of-essential-api-enhancements-6817d2ab3ba8)
-- [Java Concurrency 101: Understanding Multithreading Fundamentals](https://dip-mazumder.medium.com/java-concurrency-101-understanding-multithreading-fundamentals-e5ed48b04ca5)
+- [Java Concurrency 101](https://dip-mazumder.medium.com/java-concurrency-101-understanding-multithreading-fundamentals-e5ed48b04ca5)
 - [Understanding Java’s Garbage Collection](https://medium.com/@AlexanderObregon/understanding-javas-garbage-collection-bc141a2ef31f)
-- [The Race Condition I Encountered in My Work](https://medium.com/geekculture/the-race-condition-i-encountered-in-my-work-6fc47ac637e1)
-### Problem-Solving
-- [Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)
-- [The Complete FAANG Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-- [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
-- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-- [Recursion from the ground up: when to use it, how to structure recursive functions, and how to trace any recursive code](https://lnkd.in/eB5UfikG)
-- [Time complexity: how to measure a program's efficiency, plus Big-O and amortized analysis](https://lnkd.in/eak_YBEf)
-- [Arrays: everything about the array, including multidimensional and dynamic arrays](https://lnkd.in/ekJMPDjy)
-- [Linked lists: from traversal to reversal, the techniques behind common interview problems](https://lnkd.in/eYruabNt)
-- [Hash tables: what they are and how they work under the hood](https://lnkd.in/euhizfuh)
-- [Binary search trees: what they are and the most common implementations](https://lnkd.in/eZE7Fm45)
-- [Priority queues: how to implement one, where they're used, and the heapsort algorithm](https://lnkd.in/eztWMfwN)
-- [Tries: how to store and search strings efficiently](https://lnkd.in/edNtV2yK)
-- [Graphs: a beginner-friendly intro to graphs and how to represent them](https://lnkd.in/eUwk5Y9v)
-- [Backtracking: a step-by-step way to solve almost any search problem](https://lnkd.in/edwbW5uv)
-- [Two pointers: solve array and string problems efficiently, with code templates](https://lnkd.in/eaxNapz4)
-- [Sliding window: one technique that unlocks a whole class of interview questions](https://lnkd.in/eK3hbQcv)
 
-### Common
-- [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
-- [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/?utm_source=programmingdigest&utm_medium&utm_campaign=1629&fbclid=IwAR1Imzensg3WfXo2eQPFqJwaIPxMCZHBr6ueDDHr_jMILHVs6HvEe-UI25w&mibextid=S66gvF)
-- [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
-- [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
-- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-- [The Pragmatic Engineer Test](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
-- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
-- [Post mortem on Linear incident from Jan 24th, 2024](https://linear.app/blog/linear-incident-on-jan-24th-2024)
-- [How To Deal With Technical Debt](https://medium.com/@techworldwithmilan/how-to-deal-with-technical-debt-b0065c1a794d)
-- [Writing an engineering strategy](https://lethain.com/eng-strategies/)
-- [5 ways to review code without wasting everyone’s time](https://medium.com/volvo-cars-engineering/5-ways-to-review-code-without-wasting-everyones-time-aedeecc51094)
-
-### Spring
+#### Spring
 - [Top Spring Framework Interview Questions](https://www.baeldung.com/spring-interview-questions)
 - [How to handle incoming requests in Java with Spring Boot](https://medium.com/@burakkocakeu/how-to-handle-incoming-requests-in-java-with-spring-boot-b46cb35ed520)
 - [Mastering Testcontainers for Better Integration Tests](https://www.youtube.com/watch?v=zfN8m9Dh9cs)
-- [15+ things you need to know when you want to use Spring @Transactional really well](https://levelup.gitconnected.com/15-things-you-need-to-know-when-you-want-to-use-spring-transactional-really-well-fc6f5ec207ac)
-- [How To Authenticate Your Spring Boot Application With Keycloak](https://betterprogramming.pub/how-to-authenticate-your-spring-boot-application-with-keycloak-1e9ccb5f2478)
-- [Spring Security Fundamentals 2022](https://www.youtube.com/playlist?list=PLEocw3gLFc8X_a8hGWGaBnSkPFJmbb8QP)
-- [Micrometer and Zipkin: How to Trace HTTP Requests in Spring Boot 3](https://www.appsdeveloperblog.com/micrometer-and-zipkin-in-spring-boot/)
-- [Mastering Backend Development with Java Spring Boot: Best Practices and Pro Tips](https://itznihal.medium.com/mastering-backend-development-with-java-spring-boot:best-practices-and-pro-tips-3fc0f501418e)
-- [A Guide to Understanding and Debugging SQL Execution Plans in Spring Boot](https://dev.to/jackynote/a-guide-to-understanding-and-debugging-sql-execution-plans-in-spring-boot-5ade)
+- [15+ things you need to know when you want to use Spring @Transactional](https://levelup.gitconnected.com/15-things-you-need-to-know-when-you-want-to-use-spring-transactional-really-well-fc6f5ec207ac)
+- [Micrometer and Zipkin Trace HTTP Requests in Spring Boot 3](https://www.appsdeveloperblog.com/micrometer-and-zipkin-in-spring-boot/)
 - [Spring Data JPA, Spring Data R2DBC & Hibernate Reactive](https://medium.com/geekculture/spring-data-jpa-spring-data-r2dbc-hibernate-reactive-bcc43e321566)
-- [Optimistic locking with JPA and Hibernate](https://vladmihalcea.com/optimistic-locking-version-property-jpa-hibernate/)
-- [Hexagonal architecture and Domain Driven Design](https://dev.to/onepoint/hexagonal-architecture-and-domain-driven-design-fio)
 
-### Go
+#### Go
 - [podinfo](https://github.com/stefanprodan/podinfo)
 - [Introducing basic CQRS by refactoring a Go project](https://threedots.tech/post/basic-cqrs-in-go/)
-- [Finding The Best Go Project Structure — Part 1](https://itnext.io/finding-the-best-go-project-structure-part-1-5290bc1d869d)
-- [Getting Started with OpenTelemetry in distributed Go Microservices](https://medium.com/wesovilabs/getting-started-with-opentelemetry-in-distributed-go-microservices-192e7e21bd7c)
+- [Finding The Best Go Project Structure](https://itnext.io/finding-the-best-go-project-structure-part-1-5290bc1d869d)
+- [Getting Started with OpenTelemetry in Go Microservices](https://medium.com/wesovilabs/getting-started-with-opentelemetry-in-distributed-go-microservices-192e7e21bd7c)
 
-### Kubernetes
-- [A guide to Kubernetes architecture](https://opensource.com/article/22/2/kubernetes-architecture)
-- [The Layman’s Guide to Kubernetes: Understanding Containerization and More](https://medium.com/javarevisited/the-laymans-guide-to-kubernetes-understanding-containerization-and-more-f48ef16d3f8f)
+---
+
+## Stage 4: System Design & Infrastructure
+
+### Software Architecture
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [System Design Course](https://github.com/karanpratapsingh/system-design)
+- [System Design and Architecture](https://github.com/puncsky/system-design-and-architecture)
+- [crack-the-system-design-interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+- [System Design Interview survival guide](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
+- [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd)
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+- [Tech Company Engineering Blogs](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
+- [Software Architecture Concepts](https://blog.cmpsamurai.com/series/software-architecture)
+- [Enterprise Integration Architecture Patterns](https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a)
+
+### Distributed Systems
+- [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+- [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
+- [Designing a Digital Wallet System](https://codefarm0.medium.com/designing-a-digital-wallet-system-balance-management-top-up-p2p-transfers-eed46f757dc7)
+- [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
+- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
+
+### API & Security
+- [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
+- [How to design an efficient Idempotency API](https://levelup.gitconnected.com/how-to-design-an-efficient-idempotency-api-e664fa2954bb)
+- [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist?fbclid=IwAR3jfNqAlHZwOL74y9Z0ejk7YPnQmKifW3oVBhVcZ4h6jphH242m0LVD4pQ)
+- [Efficient Concurrency Management for Room Reservation API](https://blog.devops.dev/optimistic-locking-and-message-queues-solving-concurrency-challenges-in-room-reservation-ca0e661b63fd)
+
+### Infrastructure & DevOps
 - [Kubernetes production best-practices](https://github.com/learnk8s/kubernetes-production-best-practices)
-- [List of terminal commands for Kubernetes](https://awstip.com/list-of-terminal-commands-for-kubernetes-ffc63f0dcec0)
-- [Understanding Kubernetes Architecture: A Comprehensive Guide](https://devopscube.com/kubernetes-architecture-explained/)
-- [Implementing distributed tracing with Jaeger & Opentelemetry on Kubernetes](https://medium.com/@akashjoffical08/implement-distributed-tracing-with-jaeger-opentelemetry-on-kubernetes-3e35cb77b536)
-- [Making Sense of Kubernetes CPU Requests And Limits](https://medium.com/@jettycloud/making-sense-of-kubernetes-cpu-requests-and-limits-390bbb5b7c92)
-- [A Hands-on Kubernetes Network Troubleshooting Journey](https://itnext.io/a-hands-on-kubernetes-network-troubleshooting-journey-c2b051ce6761)
-- [How to Achieve Zero-Downtime Application with Kubernetes](https://www.qovery.com/blog/how-to-achieve-zero-downtime-application-with-kubernetes/)
-- [OWASP Kubernetes Top 10: A Comprehensive Guide](https://medium.com/@seifeddinerajhi/owasp-kubernetes-top-10-a-comprehensive-guide-f03af6fd66ed)
+- [A guide to Kubernetes architecture](https://opensource.com/article/22/2/kubernetes-architecture)
+- [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
+- [Awesome Argo](https://github.com/akuity/awesome-argo)
+- [How to Git as a Team](https://www.robinwieruch.de/git-team-workflow/)
+- [Git workflow strategies for multiple teams](https://blog.logrocket.com/git-workflow-strategies-multiple-teams-single-repository/)
+- [Circleci Engineering Blog](https://circleci.com/blog/tag/engineering/)
+- [Gitlab Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
 
-### Platform Engineering
-- [Build a Lightweight Internal Developer Platform with Argo CD and Kubernetes Labels](https://itnext.io/build-a-lightweight-internal-developer-platform-with-argo-cd-and-kubernetes-labels-4c0e52c6c0f4)
-
-### ElasticSearch
-- [Elasticsearch: What It Is, How It Works, And What It’s Used For](https://www.knowi.com/blog/what-is-elastic-search/)
-- [Elasticsearch Architecture IX: Document Versioning & Optimistic Concurrency Control](https://braineanear.medium.com/elasticsearch-architecture-ix-document-versioning-optimistic-concurrency-control-52078843eef5)
+### AI & Search
+- [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+- [Elasticsearch: What It Is and How It Works](https://www.knowi.com/blog/what-is-elastic-search/)
+- [Elasticsearch Architecture: Document Versioning](https://braineanear.medium.com/elasticsearch-architecture-ix-document-versioning-optimistic-concurrency-control-52078843eef5)
 - [The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/#latest-on-the-elk-stack)
 - [Create an advanced search engine with PostgreSQL](https://xata.io/blog/postgres-full-text-search-engine?ref=architecturenotes.co)
 
-### AI
-- [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
-
-### Git
-- [How to Git as a Team](https://www.robinwieruch.de/git-team-workflow/)
-- [Git workflow strategies: Multiple teams in a single repository](https://blog.logrocket.com/git-workflow-strategies-multiple-teams-single-repository/)
-- [Best Practices for Branch Naming in Git for Successful CI/CD Implementation](https://awsomeclouds.com/best-practices-for-branch-naming-in-git-for-successful-ci-cd-implementation-f79b7ee2f09c)
-- [How to Split Pull Requests – Good Practices, Methods and Git Strategies](https://www.thedroidsonroids.com/blog/splitting-pull-request)
-
-### Awesome
-- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
-- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
-- [crack-the-system-design-interview](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
-- [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
-- [How to answer system design interview questions](https://igotanoffer.com/blogs/tech/system-design-interview-questions?pos=1&_sid=ec68c0f85&_ss=r)
-- [System Design Interview Survival Guide (2023): Preparation Strategies and Practical Tips](https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3)
-- [18 System Design Concepts Every Engineer Must Know Before the Interview](https://www.designgurus.io/blog/system-design-interview-fundamentals)
-- [System Design Concepts You NEED to Know](https://www.youtube.com/playlist?list=PL9nWRykSBSFjU7UGR37SFfOb1oMYLNhag)
-- [Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources/blob/main/README.md#system-design-interview-problems)
-- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability)
-- [awesome-java](https://github.com/akullpp/awesome-java)
-- [interviews](https://github.com/kdn251/interviews)
-- [coding-interview-university](https://github.com/jwasham/coding-interview-university)
-- [awesome-cto](https://github.com/kuchin/awesome-cto)
-- [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd)
-- [15 Best Data Structure, Algorithms, and Programming Courses to Crack Coding Interviews](https://medium.com/javarevisited/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
-- [Circleci Engineering](https://circleci.com/blog/tag/engineering/)
-- [10 GitHub Repos every developer will need!](https://dev.to/ahmedadel/10-github-repos-every-developer-will-need-cji)
-- [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes?fbclid=IwAR39TJejBvxXglZU9Y_UYcLqyknA4zHtnoNoYVivJpyIxWPaBUl_Mwixnhg)
-- [Operating Systems Notes](https://applied-programming.github.io/Operating-Systems-Notes/)
-- [Gitlab Engineering](https://about.gitlab.com/handbook/engineering/)
-- [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)
-- [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform)
-- [Awesome Argo](https://github.com/akuity/awesome-argo)
-- [Preparing for the Systems Design and Coding Interview](https://blog.pragmaticengineer.com/preparing-for-the-systems-design-and-coding-interviews/)
-- [Beyond the basics](https://www.youtube.com/playlist?list=PL9ExMy1CBZjnsv2WXFKxXNf41iT1pdT2Q)
-- [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
-- [Tech Company Engineering Blogs](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
-- [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-
 ### To watch
-- [Working Effectively with Legacy Code • Michael Feathers & Christian Clausen](https://www.youtube.com/watch?app=desktop&list=PLEx5khR4g7PJbSLmADahf0LOpTLifiCra&v=P_6eDL1aqtA&feature=youtu.be)
-- [The Phoenix Project: A Must-Read for Anyone in IT](https://www.youtube.com/watch?app=desktop&v=6QNdL1I7OTM)
-- [The Unicorn Project: A Must-Read for Every DevOps Enthusiast](https://www.youtube.com/watch?app=desktop&v=I0vf9CtWGDc)
-- [Coaching Senior Developers by Will Ray -- ng-sydney October 2018](https://www.youtube.com/watch?v=xifesQQF5aU)
-- [How principled coders outperform the competition](https://www.youtube.com/watch?app=desktop&v=q1qKv5TBaOA&ab_channel=Coderized)
-- [How to Do Code Reviews Like a Human](https://www.youtube.com/watch?v=0t4_MfHgb_A)
-- [The Only Unbreakable Law](https://www.youtube.com/watch?v=5IUj1EZwpJY)
-- [Software Engineering Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHptUb0gduz9pxLgvtKWznKj)
-- [System Design Interview Prep](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
-- [Writing cleaner code with Domain Driven Design by Paul van der Slot](https://www.youtube.com/watch?v=3t0tZTOGk08)
+- [Working Effectively with Legacy Code](https://www.youtube.com/watch?app=desktop&list=PLEx5khR4g7PJbSLmADahf0LOpTLifiCra&v=P_6eDL1aqtA)
+- [The Phoenix Project: Must-Read for Anyone in IT](https://www.youtube.com/watch?app=desktop&v=6QNdL1I7OTM)
+- [The Unicorn Project: Must-Read for Every DevOps Enthusiast](https://www.youtube.com/watch?app=desktop&v=I0vf9CtWGDc)
+- [Software Engineering Interview Prep Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHptUb0gduz9pxLgvtKWznKj)
+- [System Design Interview Prep Playlist](https://www.youtube.com/playlist?list=PLrtCHHeadkHp92TyPt1Fj452_VGLipJnL)
+- [Writing cleaner code with Domain Driven Design](https://www.youtube.com/watch?v=3t0tZTOGk08)
