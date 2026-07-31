@@ -52,10 +52,31 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Git](#git)
 - [Awesome](#awesome)
 - [To watch](#to-watch)
+- [Resume](#resume)
+- [Go](#go)
+
+### Performance vs scalability
+- [How we scaled the GitHub API with a sharded, replicated rate limiter in Redis](https://github.blog/2021-04-05-how-we-scaled-github-api-sharded-replicated-rate-limiter-redis/)
+- [High-Performance Programming](https://www.youtube.com/@HighPerformanceProgramming/playlists)
+- [Behind AWS S3's Massive Scale](https://highscalability.com/behind-aws-s3s-massive-scale/)
+
+### Latency vs throughput
+- [Latency numbers every programmer should know](https://github.com/sirupsen/napkin-math)
+- [Back of the Envelope](https://systemdesign.one/back-of-the-envelope/)
+- [Back-of-the-envelope Estimation](https://bytebytego.com/courses/system-design-interview/back-of-the-envelope-estimation)
+
+### Availability vs consistency
+- [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/en-EG/blog/money-scale-strong-data/)
+
+#### CAP theorem
+- [System design fundamentals: What is the CAP theorem?](https://www.educative.io/blog/what-is-cap-theorem)
 
 ### Resume
 - [Want to work @FAANG companies? Start with a Great Resume](https://typefully.com/ywkem/vm1T86a)
 - [10 common mistakes in writing resume](https://www.aabouzaid.com/2023/05/10-common-resume-cv-mistakes.html?m=1)
+### Consistency patterns
+- [Eventual vs Strong Consistency in Distributed Databases](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+- [Swiggy Shows Wrong Rider Location: Real-Time GPS Tracking and Eventual Consistency](https://medium.com/@codefarm0/swiggy-shows-wrong-rider-location-system-design-deep-dive-on-real-time-gps-tracking-and-eventual-b49e5f18fccd)
 
 ### Remote First
 - [Careem](https://www.careem.com/)
@@ -150,6 +171,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Practical DDD — Setting The Right Foundations](https://medium.com/augury-research-and-development/practical-ddd-part-1-setting-the-right-foundations-5b7e4b16c9e8)
 - [What I learned from the book Software Architecture: The Hard Parts](https://medium.com/@techworldwithmilan/what-i-learned-from-the-software-architecture-the-hard-parts-0498c9eae88e)
 - [Driving architectural decisions with a simple decentralized framework](https://medium.com/@techworldwithmilan/driving-architectural-decisions-with-a-simple-decentralized-framework-32367f19e383)
+- [Enterprise Integration Architecture Patterns](https://medium.com/analysts-corner/enterprise-integration-architecture-patterns-ab26b62c1c3a)
 
 ### Distributed Systems
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
@@ -181,6 +203,36 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Java Concurrency 101: Understanding Multithreading Fundamentals](https://dip-mazumder.medium.com/java-concurrency-101-understanding-multithreading-fundamentals-e5ed48b04ca5)
 - [Understanding Java’s Garbage Collection](https://medium.com/@AlexanderObregon/understanding-javas-garbage-collection-bc141a2ef31f)
 - [The Race Condition I Encountered in My Work](https://medium.com/geekculture/the-race-condition-i-encountered-in-my-work-6fc47ac637e1)
+### Problem-Solving
+- [Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)
+- [The Complete FAANG Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+- [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
+- [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+- [Recursion from the ground up: when to use it, how to structure recursive functions, and how to trace any recursive code](https://lnkd.in/eB5UfikG)
+- [Time complexity: how to measure a program's efficiency, plus Big-O and amortized analysis](https://lnkd.in/eak_YBEf)
+- [Arrays: everything about the array, including multidimensional and dynamic arrays](https://lnkd.in/ekJMPDjy)
+- [Linked lists: from traversal to reversal, the techniques behind common interview problems](https://lnkd.in/eYruabNt)
+- [Hash tables: what they are and how they work under the hood](https://lnkd.in/euhizfuh)
+- [Binary search trees: what they are and the most common implementations](https://lnkd.in/eZE7Fm45)
+- [Priority queues: how to implement one, where they're used, and the heapsort algorithm](https://lnkd.in/eztWMfwN)
+- [Tries: how to store and search strings efficiently](https://lnkd.in/edNtV2yK)
+- [Graphs: a beginner-friendly intro to graphs and how to represent them](https://lnkd.in/eUwk5Y9v)
+- [Backtracking: a step-by-step way to solve almost any search problem](https://lnkd.in/edwbW5uv)
+- [Two pointers: solve array and string problems efficiently, with code templates](https://lnkd.in/eaxNapz4)
+- [Sliding window: one technique that unlocks a whole class of interview questions](https://lnkd.in/eK3hbQcv)
+
+### Common
+- [You’re Not a Senior Software Engineer](https://medium.com/vanguards-of-code/youre-not-a-senior-software-engineer-9056ef9ffb96)
+- [Rules of Thumb for Software Development Estimations](https://vadimkravcenko.com/shorts/project-estimates/?utm_source=programmingdigest&utm_medium&utm_campaign=1629&fbclid=IwAR1Imzensg3WfXo2eQPFqJwaIPxMCZHBr6ueDDHr_jMILHVs6HvEe-UI25w&mibextid=S66gvF)
+- [On Being A Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)
+- [How to Become a Good Backend Engineer (Fundamentals)](https://medium.com/@hnasr/how-to-become-a-good-backend-engineer-fundamentals-4dcc4a16ce55)
+- [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
+- [The Pragmatic Engineer Test](https://blog.pragmaticengineer.com/pragmatic-engineer-test/)
+- [A practical guide to writing technical specs](https://stackoverflow.blog/2020/04/06/a-practical-guide-to-writing-technical-specs/)
+- [Post mortem on Linear incident from Jan 24th, 2024](https://linear.app/blog/linear-incident-on-jan-24th-2024)
+- [How To Deal With Technical Debt](https://medium.com/@techworldwithmilan/how-to-deal-with-technical-debt-b0065c1a794d)
+- [Writing an engineering strategy](https://lethain.com/eng-strategies/)
+- [5 ways to review code without wasting everyone’s time](https://medium.com/volvo-cars-engineering/5-ways-to-review-code-without-wasting-everyones-time-aedeecc51094)
 
 ### Spring
 - [Top Spring Framework Interview Questions](https://www.baeldung.com/spring-interview-questions)
@@ -246,6 +298,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [awesome-java](https://github.com/akullpp/awesome-java)
 - [interviews](https://github.com/kdn251/interviews)
 - [coding-interview-university](https://github.com/jwasham/coding-interview-university)
+- [awesome-cto](https://github.com/kuchin/awesome-cto)
 - [Awesome Domain-Driven Design](https://github.com/heynickc/awesome-ddd)
 - [15 Best Data Structure, Algorithms, and Programming Courses to Crack Coding Interviews](https://medium.com/javarevisited/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 - [Circleci Engineering](https://circleci.com/blog/tag/engineering/)
