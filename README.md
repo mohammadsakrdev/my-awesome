@@ -68,6 +68,9 @@ A curated list of awesome links, frameworks, libraries and software.
 - [100+ Fully Remote Companies with Top Work From Home Jobs](https://remotive.com/blog/remote-companies/)
 - [Sunsoftonline](https://www.sunsoftonline.com/)
 - [Get.it](https://www.get.it/)
+- [Australian companies providing work visa sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
+- [Career Curve -Six purpose-built tools to rewrite, score and rehearse reume](https://www.careercurve.live/ai-tools)
+- [Talxo - A hiring platform for skilled professionals](https://talxo.ai/)
 
 ### Hiring Without Whiteboards
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
@@ -215,6 +218,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
+- [Database Sharding](https://planetscale.com/blog/database-sharding)
 
 ### API & Security
 - [Best Practices for Designing a Pragmatic RESTful API](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
