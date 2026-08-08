@@ -112,6 +112,8 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes?fbclid=IwAR39TJejBvxXglZU9Y_UYcLqyknA4zHtnoNoYVivJpyIxWPaBUl_Mwixnhg)
 - [Path to Senior Engineer handbook](https://github.com/jordan-cutler/path-to-senior-engineer-handbook)
 - [awesome-cto](https://github.com/kuchin/awesome-cto)
+- [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+
 
 ### Common Interview Questions
 - [What happens when you type a URL into your browser?](https://www.youtube.com/watch?v=AlkDbnbv7dk)
