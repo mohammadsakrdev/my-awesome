@@ -75,6 +75,7 @@ A curated list of awesome links, frameworks, libraries and software.
 ### Companies providing work visa sponsorship
 - [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
 - [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
+- [Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs](https://github.com/Lamiiine/Awesome-daily-list-of-visa-sponsored-jobs)
 
 ### Hiring Without Whiteboards
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
