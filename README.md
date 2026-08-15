@@ -31,6 +31,7 @@ A curated list of awesome links, frameworks, libraries and software.
     - [Resume](#resume)
     - [Remote First](#remote-first)
     - [Hiring Without Whiteboards](#hiring-without-whiteboards)
+    - [Australian companies providing work visa sponsorship](#australian-companies-providing-work-visa-sponsorship)
 - [Stage 2: Behavioral & Soft Skills](#stage-2-behavioral--soft-skills)
     - [Behavioural](#behavioural)
     - [Common (Career & Growth)](#common-career--growth)
@@ -68,9 +69,12 @@ A curated list of awesome links, frameworks, libraries and software.
 - [100+ Fully Remote Companies with Top Work From Home Jobs](https://remotive.com/blog/remote-companies/)
 - [Sunsoftonline](https://www.sunsoftonline.com/)
 - [Get.it](https://www.get.it/)
-- [Australian companies providing work visa sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
 - [Career Curve -Six purpose-built tools to rewrite, score and rehearse reume](https://www.careercurve.live/ai-tools)
 - [Talxo - A hiring platform for skilled professionals](https://talxo.ai/)
+
+### Companies providing work visa sponsorship
+- [geshan/au-companies-providing-work-visa-sponsorship](https://github.com/geshan/au-companies-providing-work-visa-sponsorship)
+- [AndrewStetsenko/tech-jobs-with-relocation](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
 
 ### Hiring Without Whiteboards
 - [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
