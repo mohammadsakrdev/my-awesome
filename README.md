@@ -48,7 +48,8 @@ A curated list of awesome links, frameworks, libraries and software.
     - [Distributed Systems](#distributed-systems)
     - [API & Security](#api--security)
     - [Infrastructure & DevOps (K8s, Git, etc.)](#infrastructure--devops)
-    - [AI & Search (ElasticSearch)](#ai--search)
+    - [AI](#ai)
+    - [Search](#search)
     - [To watch](#to-watch)
 
 ---
@@ -128,6 +129,7 @@ A curated list of awesome links, frameworks, libraries and software.
 ## Stage 3: Coding & Technical Fundamentals
 
 ### Problem-Solving
+- [Stanford CS 9: Problem-Solving for the CS Technical Interview](https://web.stanford.edu/class/cs9/?ref=blog.pragmaticengineer.com)
 - [Coding Interview Questions](https://github.com/ombharatiya/FAANG-Coding-Interview-Questions)
 - [The Complete FAANG Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 - [How to Rock the Coding Interview – Tips That Helped Me Land Job Offers](https://www.freecodecamp.org/news/coding-interviews-for-dummies-5e048933b82b/)
@@ -242,9 +244,14 @@ A curated list of awesome links, frameworks, libraries and software.
 - [Git workflow strategies for multiple teams](https://blog.logrocket.com/git-workflow-strategies-multiple-teams-single-repository/)
 - [Circleci Engineering Blog](https://circleci.com/blog/tag/engineering/)
 - [Gitlab Engineering Handbook](https://about.gitlab.com/handbook/engineering/)
+- [SRE Interview Preparation Guide](https://github.com/mxssl/sre-interview-prep-guide)
 
-### AI & Search
+### AI
+- [Stanford CS146S: The Modern Software Developer](https://bulletin.stanford.edu/courses/2274401/tab-aoYks)
 - [llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+- [DataTalksClub](https://github.com/DataTalksClub)
+
+### Search
 - [Elasticsearch: What It Is and How It Works](https://www.knowi.com/blog/what-is-elastic-search/)
 - [Elasticsearch Architecture: Document Versioning](https://braineanear.medium.com/elasticsearch-architecture-ix-document-versioning-optimistic-concurrency-control-52078843eef5)
 - [The Complete Guide to the ELK Stack](https://logz.io/learn/complete-guide-elk-stack/#latest-on-the-elk-stack)
