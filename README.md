@@ -224,6 +224,7 @@ A curated list of awesome links, frameworks, libraries and software.
 - [MIT 6.824 Distributed Systems (Spring 2020)](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
 - [Avoiding Double Payments in a Distributed Payments System](https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb)
 - [Designing a Digital Wallet System](https://codefarm0.medium.com/designing-a-digital-wallet-system-balance-management-top-up-p2p-transfers-eed46f757dc7)
+- [Building High Throughput Payment Account Processing](https://www.uber.com/eg/en/blog/high-throughput-processing/)
 - [A Guide to Consistent Hashing](https://www.toptal.com/big-data/consistent-hashing)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Scaling services with Shard Manager](https://engineering.fb.com/2020/08/24/production-engineering/scaling-services-with-shard-manager/)
